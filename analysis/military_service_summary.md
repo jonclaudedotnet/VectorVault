@@ -11,7 +11,7 @@
 - **Character of Service:** Honorable Discharge Certificate DD Form 256N
 
 ## Military Details
-- **Rank at Discharge:** QN3 (Quartermaster Third Class)
+- **Rank at Discharge:** QM3 (Quartermaster Third Class, Petty Officer Third Class)
 - **SSN:** 108-60-8155
 - **Rate/MOS:** USNR-R (Navy Reserve - Reservist)
 - **Separation Code:** LBE
