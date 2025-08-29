@@ -105,10 +105,10 @@ def find_funny_moments():
         print(capitalism)
         print()
     
-    # The OG weed story
+    # Jon's OG weed story
     weed = find_text_segment(full_text, "fucking OG push")
     if weed:
-        print("\n🌿 THE CANNABIS NOSTALGIA:")
+        print("\n🌿 JON'S CANNABIS NOSTALGIA:")
         print("-" * 40)
         print(weed)
         print()
