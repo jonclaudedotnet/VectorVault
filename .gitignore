@@ -1,0 +1,65 @@
+# VectorVault .gitignore
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.m4a
+
+# Vector databases
+*.db
+*.sqlite
+*.chroma
+vector_storage/
+embeddings/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+temp_frames/
+audio_chunks/
+processing_cache/
+analysis_outputs/*.json
+analysis_outputs/*.pkl
