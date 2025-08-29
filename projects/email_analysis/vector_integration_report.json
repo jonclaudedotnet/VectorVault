@@ -1,0 +1,10 @@
+{
+  "integration_date": "2025-08-29T02:28:37.729393",
+  "source_analysis": "/home/jonclaude/Agents/Claude on Studio/VectorVault/projects/email_analysis/liberal_email_analysis.json",
+  "results": {
+    "vectors_added": 25,
+    "total_vectors": 25,
+    "email_vectors": 25
+  },
+  "database_location": "/home/jonclaude/Agents/Claude on Studio/VectorVault/storage/vectors.db"
+}

@@ -1,0 +1,2699 @@
+{
+  "metadata": {
+    "total_entries": 82,
+    "date_range": "2024-01-22 to 2025-08-24",
+    "total_words": 6707,
+    "vector_count": 82
+  },
+  "entries": [
+    {
+      "title": "2024-01-22",
+      "date": "2024-01-22",
+      "filename": "2024-01-22.html",
+      "content": "Sunday, January 21, 2024 First post. Watching KC @ BUF.",
+      "word_count": 10,
+      "themes": {}
+    },
+    {
+      "title": "2024-02-13",
+      "date": "2024-02-13",
+      "filename": "2024-02-13.html",
+      "content": "Tuesday, February 13, 2024 Your browser does not support the video tag. 0:13 Sped up for comedic effect.",
+      "word_count": 18,
+      "themes": {
+        "creativity": true
+      }
+    },
+    {
+      "title": "2024-07-24 Afternoon outing to Burger King",
+      "date": "2024-07-24",
+      "filename": "2024-07-24_Afternoon_outing_to_Burger_King.html",
+      "content": "Wednesday, July 24, 2024 Burger King Afternoon outing to Burger King Lolz",
+      "word_count": 12,
+      "themes": {
+        "food": true
+      }
+    },
+    {
+      "title": "2024-08-20 Prescription Drugs",
+      "date": "2024-08-20",
+      "filename": "2024-08-20_Prescription_Drugs.html",
+      "content": "Tuesday, August 20, 2024 Prescription Drugs It\u2019s important to remember to always take your SSRI drugs as per the prescription. If you skip five or six days, guess what? You\u2019ll have a complete fucking meltdown and break a bunch of shit and yell at your family. Fuck.",
+      "word_count": 47,
+      "themes": {
+        "relationships": true,
+        "health": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-08-23 Lake George",
+      "date": "2024-08-23",
+      "filename": "2024-08-23_Lake_George.html",
+      "content": "Friday, August 23, 2024 Lake George",
+      "word_count": 6,
+      "themes": {
+        "travel": true
+      }
+    },
+    {
+      "title": "2024-08-24 Chinese Food",
+      "date": "2024-08-24",
+      "filename": "2024-08-24_Chinese_Food.html",
+      "content": "Saturday, August 24, 2024 Dragon Lee Chinese Food 4 egg rolls Beef & broccoli Large wonton soup x 2 sesame chicken Sweet and sour chicken Best Chinese I\u2019ve had in years.",
+      "word_count": 31,
+      "themes": {
+        "food": true
+      }
+    },
+    {
+      "title": "2024-08-24 I Want Borscht",
+      "date": "2024-08-24",
+      "filename": "2024-08-24_I_Want_Borscht.html",
+      "content": "Saturday, August 24, 2024 I Want Borscht Also, Start cooking good foods and stop trying to starve yourself.",
+      "word_count": 18,
+      "themes": {
+        "food": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-08-26 Side thing about reaching out to smaller production companies",
+      "date": "2024-08-26",
+      "filename": "2024-08-26_Side_thing_about_reaching_out_to_smaller_production_companies.html",
+      "content": "Monday, August 26, 2024 Side thing about reaching out to smaller production companies About the VR cameras becoming duh they already know. Why am I so obsessed with this? I\u2019ll figure it out soon I hope.",
+      "word_count": 36,
+      "themes": {
+        "creativity": true
+      }
+    },
+    {
+      "title": "2024-08-26 VR   Immersive Video and spatial apps",
+      "date": "2024-08-26",
+      "filename": "2024-08-26_VR___Immersive_Video_and_spatial_apps.html",
+      "content": "Monday, August 26, 2024 VR / Immersive Video and spatial apps I want to put together a rig for capturing high end VR180 format photo and video in Museums big and small, among other applications. The VR180 video format can be processed, interpreted and edited in Adobe Premiere Pro which I just love to use, it\u2019s the best interface for editing and post production I\u2019ve ever used. Adobe is also going hard in the AI space as features are ready trickling into their products including Photoshop and Premiere. I\u2019ve been doing a lot of local and cloud data storage with Synology and Amazon Web Services - these are huge files of course. Only recently has this format been attainable below a corporate production level. Yes, 180-degree VR video is getting better, and some say it will make 3D videos more common. The new format is compatible with VR devices and 2D screens, which could make it easier for video producers to transition from regular video to more immersive options. For example, a video could be watched on a phone or in a VR headset without any extra work. The first cameras that are officially compatible with the format are expected to be released in winter 2024. Apple has entered the VR/AR space which likely will light a fire under the other companies making their VR products better. In a long enough timeline, the applications are endless. Don\u2019t know if it would be profitable to do at the small museum level, but it would be an opportunity to make a reel to show bigger potential clients. Hypothesis: I have the computing power and the time to produce fully developed VR180/\u201cImmersive\u201d videos. What if i came up with a rig for shooting in museums? Would there be a market for VR180 & VR360 video production for museums big and small? Currently? Not really. Next two years? It depends on whether Apple entering the VR / AR space breathes life and innovation into a somewhat new type of device. Next five years? Shit, we may have regular glasses that have spatial computing. Or who knows\u2026. Labor: Shoot V180VR/ 360 videos for museums and make apps for them. It\u2019s the future ffs. Notes: Immersive Video is what Apple calls it. It\u2019s not clear whether they have native support of VR360 at this time. Insta360x4 H265 200mb/s 8K (consumer level) ProRes for editing \u201cShooting 360 degree videos in unique locations\u201d for integration app that runs on the Apple Vision Pro. Finished apps can of course be monetized by selling the app to the world and/or by subscription to perhaps a larger collection of museums, etc. Info about AVP: The Apple Vision Pro is an ambitious augmented reality (AR) headset recently unveiled by Apple. It features a ski goggle-like design with a continuous front panel, custom 3D lenses, and built-in earbuds. The headset boasts two displays (one for each eye) with a total of 23 million pixels, HDR, and wide color support. Despite a high price tag of $3,499, native apps are limited, but early owners can enjoy 3D movies, Disney+, and 180-degree recordings with Spatial Audio technology. The Vision Pro aims to integrate digital media seamlessly with the real world, making it a significant step in Apple\u2019s product lineup. It\u2019s worth noting that this is Apple\u2019s first major product category since the Apple Watch in 2015. NOW Will the second generation be cheaper better, smaller, etc.? Time will tell. If the product comes down in price and becomes accessible to the masses, I think there would be a market for virtual museum walkthroughs. Put into an app for the world to download. Assuming also that this technology catches on, figure about 3 years until we\u2019re looking at Web 4.0, the spatial internet; whatever that will be like. Now how the fuck do I get started?",
+      "word_count": 640,
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "health": true,
+        "creativity": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-08-31 I want to help this Venezuelan Woman Doctor learn English",
+      "date": "2024-08-31",
+      "filename": "2024-08-31_I_want_to_help_this_Venezuelan_Woman_Doctor_learn_English.html",
+      "content": "Saturday, August 31, 2024 I want to help this Venezuelan Woman Doctor learn English \u201cSi quieres me escribes en ingl\u00e9s y yo traducciones\u201d Yes, because she already knows how to translate everything she gets in writing into Spanish. Forget the rest of this entry, i was digressing so much. She\u2019s got her phone set up to translate by iMessage / sms / email Working like maybe 30 hours a week doing home care. It\u2019s noble certainly - these are people I think she really cares about. Workers like this should be better compensated. Need money for programs like this? Tax the rich and level the playing field. That\u2019s where I\u2019m at. I digress. This is my journal. Just write.",
+      "word_count": 119,
+      "themes": {
+        "technology": true,
+        "work": true,
+        "health": true,
+        "learning": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-09-02",
+      "date": "2024-09-02",
+      "filename": "2024-09-02.html",
+      "content": "Monday, September 2, 2024",
+      "word_count": 4,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-02 Just write",
+      "date": "2024-09-02",
+      "filename": "2024-09-02_Just_write.html",
+      "content": "Monday, September 2, 2024 Just write Yes. Directors cut of Napol\u00e9on. Felt like 20 minutes of just beheadings. Oh you silly French! I hear ya, Ridley Scott and I applauded thee for pointing this out. Still watching, may comment. This mofo goes and shoots mofos at the pyramids!! Anywho\u2026 really boring, but somehow eatable because of Mr. Phoenix. Like that guy is for real. Cmon now!",
+      "word_count": 66,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-09-03 Vacuum the moldmobile",
+      "date": "2024-09-03",
+      "filename": "2024-09-03_Vacuum_the_moldmobile.html",
+      "content": "Tuesday, September 3, 2024 Vacuum the moldmobile You may remember around this time, the problems I had with the Tiguan. Brakes needed done first, then the flat tire that I drove down the hill to Eric\u2019s and put in the donut months and months ago at this point. So I\u2019m scooping out the wood pellets that I was using to try to dry up the moldy wetness that was embedded in the passenger front and back floorboards\u2026 Hey dummy - you need a shop vac. Even better - you gotta go to the shop vac they got at the car wash in Old Saybrook. So that\u2019ll be step one. Let\u2019s goo!",
+      "word_count": 111,
+      "themes": {
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-09-03 AI quick translate",
+      "date": "2024-09-03",
+      "filename": "2024-09-03_AI_quick_translate.html",
+      "content": "Tuesday, September 3, 2024 AI quick translate The person you are trying to talk to has ear buds connected to your phone which is translating everything you say. Same thing with their phone and your ear buds. Genius People are already doing this. This is one way AI is going to change the world.",
+      "word_count": 54,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-09-03 Back to VR Videography",
+      "date": "2024-09-03",
+      "filename": "2024-09-03_Back_to_VR_Videography.html",
+      "content": "Tuesday, September 3, 2024 Back to VR Videography I have myself some time to think about this without going hard into it. Perhaps it is time though and here\u2019s why - Idea: Shoot with these new VR cameras in Museums, and other unique locations. Some support stuff below: If we shoot real things now using the technology we have to get the additional DATA\u2026 data that is fed into near-future ai and in a few years time when they figure out the optics , everyone can see your videos in the manner in which you wanted them to be seen. (Can\u2019t translate from whatever language my brain uses). But yeah, that\u2019s right. You\u2019ll shoot it now. Use the video for whatever in the short term, but soon enough - process through AI a couple years from now and you\u2019re back to the moment it was shot(?) currently it may not super duper but once they figure out the optics of putting real depth into a pair of sunglasses digitally and smoothly, could be good. The optics we have now - is it that much more data that near future ai will be able to figure it out and project the world better than if it was originally 2D image? I keep thinking about this and that\u2019s what makes me think it might be worthwhile to start shooting now. Bottom line - is there a benefit and/or market for shooting VR180 at this time ?",
+      "word_count": 244,
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true,
+        "learning": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-09-03 Long term",
+      "date": "2024-09-03",
+      "filename": "2024-09-03_Long_term.html",
+      "content": "Tuesday, September 3, 2024 Long term? Look into this",
+      "word_count": 9,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-07 Poppi Soda",
+      "date": "2024-09-07",
+      "filename": "2024-09-07_Poppi_Soda.html",
+      "content": "Friday, September 6, 2024 Poppi Soda Get some.",
+      "word_count": 8,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-07 Some people get it -",
+      "date": "2024-09-07",
+      "filename": "2024-09-07_Some_people_get_it_-.html",
+      "content": "Friday, September 6, 2024 Some people get it - Why $120 per hour? Because you\u2019re paying for the quality of my work and you know when you call me again with another problem, I\u2019ll get it sorted out right away. Something like that. Work on it.",
+      "word_count": 46,
+      "themes": {
+        "technology": true,
+        "work": true
+      }
+    },
+    {
+      "title": "2024-09-10",
+      "date": "2024-09-10",
+      "filename": "2024-09-10.html",
+      "content": "Tuesday, September 10, 2024 Form I-693",
+      "word_count": 6,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-10 International",
+      "date": "2024-09-10",
+      "filename": "2024-09-10_International.html",
+      "content": "Monday, September 9, 2024 International Get your shit together for working remotely and junk and stuff +1 (849) 206-7593 Wilmer Fari\u00f1as sobrino . Por WhatsApp",
+      "word_count": 25,
+      "themes": {
+        "technology": true,
+        "work": true
+      }
+    },
+    {
+      "title": "2024-09-13 Test",
+      "date": "2024-09-13",
+      "filename": "2024-09-13_Test.html",
+      "content": "Friday, September 13, 2024 Test This",
+      "word_count": 6,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-13 Figure it out",
+      "date": "2024-09-13",
+      "filename": "2024-09-13_Figure_it_out.html",
+      "content": "Friday, September 13, 2024 Figure it out",
+      "word_count": 7,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-16 Eric Foster",
+      "date": "2024-09-16",
+      "filename": "2024-09-16_Eric_Foster.html",
+      "content": "Monday, September 16, 2024 Eric Foster Needs to be sold on better remote access because I bet his computer woes slow him down.",
+      "word_count": 23,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-09-16",
+      "date": "2024-09-16",
+      "filename": "2024-09-16.html",
+      "content": "Monday, September 16, 2024 OK. Soft return. I think I shot this very well with an iPhone 13 Pro Max and an iPhone 14 Pro Max. Camera one was always the group of four they really started getting into it and I was using Camera to a lot more. I was so glad that I was able to shoot from the middle of the room and I hope I captured the moment for a good hour in the meeting house in Chester Connecticut. I thought it was awesome. Clean up before sending. My idea was to promote the fuck out of this like just get this to everybody in different communities around here and the Democrats. I\u2019m here. I can make videos in a one-day turnaround yeah I\u2019m here and I\u2019m sick of doing IT work.",
+      "word_count": 136,
+      "themes": {
+        "work": true,
+        "creativity": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-09-17 Write essays about tech",
+      "date": "2024-09-17",
+      "filename": "2024-09-17_Write_essays_about_tech.html",
+      "content": "Tuesday, September 17, 2024 Write essays about tech That\u2019s a good idea. Just do that. Put out a byline on facebook?",
+      "word_count": 21,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-09-18 Synology in Mithani\u2019s office",
+      "date": "2024-09-18",
+      "filename": "2024-09-18_Synology_in_Mithani\u2019s_office.html",
+      "content": "Wednesday, September 18, 2024 Synology in Mithani\u2019s office Syndrt10019 is the quick connect id",
+      "word_count": 14,
+      "themes": {}
+    },
+    {
+      "title": "2024-09-20 Movies",
+      "date": "2024-09-20",
+      "filename": "2024-09-20_Movies.html",
+      "content": "Friday, September 20, 2024 Movies Sept 27th- Mitchells vs Machines Oct 4th- Remember the Titans Oct 11th - Scream",
+      "word_count": 19,
+      "themes": {
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-10-13 Links",
+      "date": "2024-10-13",
+      "filename": "2024-10-13_Links.html",
+      "content": "Saturday, October 12, 2024 Links https://youtu.be/3tOWNYkrSVQ https://youtu.be/6anXqGPBKn4",
+      "word_count": 7,
+      "themes": {}
+    },
+    {
+      "title": "2024-10-13 Tomago",
+      "date": "2024-10-13",
+      "filename": "2024-10-13_Tomago.html",
+      "content": "Sunday, October 13, 2024 Tomago Make it With nice sushi rice",
+      "word_count": 11,
+      "themes": {}
+    },
+    {
+      "title": "2024-10-16 Granite room computer",
+      "date": "2024-10-16",
+      "filename": "2024-10-16_Granite_room_computer.html",
+      "content": "Wednesday, October 16, 2024 Granite room computer 7744 Staff Laurie Barbara Info",
+      "word_count": 12,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-10-21",
+      "date": "2024-10-21",
+      "filename": "2024-10-21.html",
+      "content": "Monday, October 21, 2024 149 Parker Road",
+      "word_count": 7,
+      "themes": {}
+    },
+    {
+      "title": "2024-10-26 Fiber",
+      "date": "2024-10-26",
+      "filename": "2024-10-26_Fiber.html",
+      "content": "Saturday, October 26, 2024 Fiber Today, my public ip address is: 32.216.133.76 11/14/24: 32.216.135.164 12/28/24 32.216.135.164",
+      "word_count": 16,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-05 Election Day",
+      "date": "2024-11-05",
+      "filename": "2024-11-05_Election_Day.html",
+      "content": "Tuesday, November 5, 2024 Election Day 12:49am Live TV for now. High as fuck still. Chillin. Optimistic(?) lolz Got trial of Fubo to watch live tv.",
+      "word_count": 26,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-08 19V 4.7A",
+      "date": "2024-11-08",
+      "filename": "2024-11-08_19V_4.7A.html",
+      "content": "Thursday, November 7, 2024 19V 4.7A For Hazel\u2019s monitor",
+      "word_count": 9,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-12 Frontier Fiber down",
+      "date": "2024-11-12",
+      "filename": "2024-11-12_Frontier_Fiber_down.html",
+      "content": "Tuesday, November 12, 2024 Frontier Fiber down Afternoon of 11/12/24 for a little while as I troubleshooted by hooking up the EERO.",
+      "word_count": 22,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-15 Torello",
+      "date": "2024-11-15",
+      "filename": "2024-11-15_Torello.html",
+      "content": "Friday, November 15, 2024 Torello Admin administrator G30rg3t0r3ll0!",
+      "word_count": 8,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-17 Thanksgiving 2024 on Turkey Hill",
+      "date": "2024-11-17",
+      "filename": "2024-11-17_Thanksgiving_2024_on_Turkey_Hill.html",
+      "content": "Saturday, November 16, 2024 Thanksgiving 2024 on Turkey Hill Wedge salads to order with homemade and storebought dressings Australian rack of lamb with garlic, herbs and olive oil Winter squash laatkes with tazdziki",
+      "word_count": 33,
+      "themes": {}
+    },
+    {
+      "title": "2024-11-20 Curtains up",
+      "date": "2024-11-20",
+      "filename": "2024-11-20_Curtains_up.html",
+      "content": "Tuesday, November 19, 2024 Curtains up This was the day we put up these curtains The magnetic ones to keep the heat in half the basement.",
+      "word_count": 26,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-11-27 New Website Time",
+      "date": "2024-11-27",
+      "filename": "2024-11-27_New_Website_Time.html",
+      "content": "Tuesday, November 26, 2024 New Website Time Yes! Do the story of me and Sea Robin Technology you know make pictures with AI and make it like a story book on the website. Start with the fish and his life in the Long Island sound and getting caught on {insert date - you have the photo!} Although the sea robin ended up in a stew, I\u2019ll always remember him. Its tail meat held up so perfectly. Queens, Ct blah",
+      "word_count": 79,
+      "themes": {
+        "technology": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-12-02 Sea Robin Tech 2025",
+      "date": "2024-12-02",
+      "filename": "2024-12-02_Sea_Robin_Tech_2025.html",
+      "content": "Sunday, December 1, 2024 Sea Robin Tech 2025 Innovating beyond the surface, AI came up with that. Ugh Have you ever gotten exactly what you wanted to get out of technology? Have you ever wanted technology to do what you wanted it to do? Just be like a tight biography, kinda nice looking thing where the word technology switches to AI and back to technology and to also to the word computer computers, printers phones email. At Sea Robin Technology I can help you do that. Or something similar like that. Next thought: Making myself redundant 1 - get control of all IT resources 2 - assess systems that have repeated issues 3- innovate and upgrade if necessary 4- set up remote access for principals and/or staff members if necessary 5- train principals and/or staff to maintain things reducing incidents the company has to pay for",
+      "word_count": 146,
+      "themes": {
+        "technology": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2024-12-18 Computers at GBCO",
+      "date": "2024-12-18",
+      "filename": "2024-12-18_Computers_at_GBCO.html",
+      "content": "Wednesday, December 18, 2024 Computers at GBCO DESKTOP-FS3AI3R LabelIt M0250737734M601 Cnc",
+      "word_count": 11,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2024-12-23 Mithani DNS",
+      "date": "2024-12-23",
+      "filename": "2024-12-23_Mithani_DNS.html",
+      "content": "Monday, December 23, 2024 Mithani DNS IPv4 address Revalidate in 18.220.193.23 5m AAAA records No AAAA records found. CNAME record No CNAME record found. TXT records SPF record This record is valid for 5m. Include the SPF record at _spf.google.com and pass if it matches the sender's IP. include:_spf.google.com Or else, mark the email as softfail . ~all NS records Name server Revalidate in dns2.stabletransit.com. 5m dns1.stabletransit.com. 5m MX records Mail server Priority Revalidate in ASPMX.L.GOOGLE.com. 1 Primary 5m ALT1.ASPMX.L.GOOGLE.com. 5 5m ALT2.ASPMX.L.GOOGLE.com. 5 5m ALT3.ASPMX.L.GOOGLE.com. 10 5m ALT4.ASPMX.L.GOOGLE.com. 10 5m Other records Additional record type SOA data Revalidate in Start of authority ns.rackspace.com. Email support@doctorsinternet.com Serial 1633620353 Refresh 6h Retry 1h Expire 504h Negative cache TTL 5m",
+      "word_count": 118,
+      "themes": {
+        "technology": true,
+        "health": true
+      }
+    },
+    {
+      "title": "2025-01-03 Man, I was floating on biscuits",
+      "date": "2025-01-03",
+      "filename": "2025-01-03_Man,_I_was_floating_on_biscuits.html",
+      "content": "Friday, January 3, 2025 Man, I was floating on biscuits Hey also, you bought some more LTC but forgot to check that that three game parlay came in, ya crazy kid.",
+      "word_count": 31,
+      "themes": {}
+    },
+    {
+      "title": "2025-01-07 Do this",
+      "date": "2025-01-07",
+      "filename": "2025-01-07_Do_this.html",
+      "content": "Tuesday, January 7, 2025 Do this Seriously, stop fucking around and make the story of Sea Robin Technology",
+      "word_count": 18,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-01-10 Work on Eric Foster",
+      "date": "2025-01-10",
+      "filename": "2025-01-10_Work_on_Eric_Foster.html",
+      "content": "Friday, January 10, 2025 Work on Eric Foster nwood @ New outlook, turn off conversation view elfosterlaw@",
+      "word_count": 17,
+      "themes": {
+        "work": true
+      }
+    },
+    {
+      "title": "2025-01-19 Richard Langdon Notes",
+      "date": "2025-01-19",
+      "filename": "2025-01-19_Richard_Langdon_Notes.html",
+      "content": "Sunday, January 19, 2025 Richard Langdon Notes Office account:(?) rtlarch1@outlook.com Microsoft Windows: rtlarch1@aol.com",
+      "word_count": 13,
+      "themes": {}
+    },
+    {
+      "title": "2025-02-01 Figure out",
+      "date": "2025-02-01",
+      "filename": "2025-02-01_Figure_out.html",
+      "content": "Saturday, February 1, 2025 Figure out Open default mailbox",
+      "word_count": 9,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-02-02 Talk to Cary about Studio cameras",
+      "date": "2025-02-02",
+      "filename": "2025-02-02_Talk_to_Cary_about_Studio_cameras.html",
+      "content": "Sunday, February 2, 2025 Talk to Cary about Studio cameras",
+      "word_count": 10,
+      "themes": {}
+    },
+    {
+      "title": "2025-02-04 True Value",
+      "date": "2025-02-04",
+      "filename": "2025-02-04_True_Value.html",
+      "content": "Tuesday, February 4, 2025 True Value Look into cell service thing Splashtop Transact",
+      "word_count": 13,
+      "themes": {}
+    },
+    {
+      "title": "2025-02-08 Marketing for Windows 10 death",
+      "date": "2025-02-08",
+      "filename": "2025-02-08_Marketing_for_Windows_10_death.html",
+      "content": "Saturday, February 8, 2025 Marketing for Windows 10 death Show them attached and warn of the dangers of companies trying to take advantage blah blah blah. Use a reputable IT service in your area.",
+      "word_count": 34,
+      "themes": {}
+    },
+    {
+      "title": "2025-02-09 Green screen fun( )",
+      "date": "2025-02-09",
+      "filename": "2025-02-09_Green_screen_fun(_).html",
+      "content": "Sunday, February 9, 2025 Green screen fun(?) Project the color green on back of green screen. Shit, project whatever you want. Knock down the wall.",
+      "word_count": 25,
+      "themes": {
+        "work": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-02-09 Sea Robin Tech is SRT Productions",
+      "date": "2025-02-09",
+      "filename": "2025-02-09_Sea_Robin_Tech_is_SRT_Productions.html",
+      "content": "Sunday, February 9, 2025 Sea Robin Tech is SRT Productions Take that ai logo and make vector art and cut out and shoot in front of projected oceanic images or something I shoot\u2026 something like that",
+      "word_count": 36,
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-02-14 Invoices for Pondside",
+      "date": "2025-02-14",
+      "filename": "2025-02-14_Invoices_for_Pondside.html",
+      "content": "Friday, February 14, 2025 Invoices for Pondside 10/16/25 $360 1/29/25 $600 2/14/25 $240",
+      "word_count": 13,
+      "themes": {}
+    },
+    {
+      "title": "2025-02-18 Thing",
+      "date": "2025-02-18",
+      "filename": "2025-02-18_Thing.html",
+      "content": "Monday, February 17, 2025 Thing I think about eight years ago I worked on helping to make these 1936 films look a little better and I loved I loved so much about that and the not only it\u2019s just there was always people\u2026 Cards return card return carriage return carriage return So I was gonna be the guy that\u2019s shooting things happening around here and shoot it high Rez for the future and these things have to be stored. These files are end up being enormous if she shoot enough of them so they have to be housed in large blah blah blah so that was the thing that I wanted to tell Chester Historical Society that I could just do that whole thing like keep all the video under one roof boom boom boom that\u2019s it. Dictated This is me typing. Email to Cary about how I can also get long term storage set up at historical societies, or we can cohost it.. I can host it\u2026 etc.",
+      "word_count": 169,
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-02-18 Sea Robin Tech Productions",
+      "date": "2025-02-18",
+      "filename": "2025-02-18_Sea_Robin_Tech_Productions.html",
+      "content": "Tuesday, February 18, 2025 Sea Robin Tech Productions Jesus I am so dumb. OK, so simple Sea robin tech becomes Sea Robin Technology productions Show that in the vignette Duh",
+      "word_count": 30,
+      "themes": {
+        "technology": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-02-19 Jenny Kitsen",
+      "date": "2025-02-19",
+      "filename": "2025-02-19_Jenny_Kitsen.html",
+      "content": "Wednesday, February 19, 2025 Jenny Kitsen Can you find out the problem with yahoo sending or putting two emails duplicating all the emails? Also, the remove the undelete thing we gotta turn off the undelete thing. Thank you.",
+      "word_count": 38,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-03-14 Glenn Baller",
+      "date": "2025-03-14",
+      "filename": "2025-03-14_Glenn_Baller.html",
+      "content": "Friday, March 14, 2025 Glenn Baller 655899 pin New password: GB655899!!",
+      "word_count": 11,
+      "themes": {}
+    },
+    {
+      "title": "2025-04-12 Just learn programming already you dumb shit",
+      "date": "2025-04-12",
+      "filename": "2025-04-12_Just_learn_programming_already_you_dumb_shit.html",
+      "content": "Saturday, April 12, 2025 Just learn programming already you dumb shit Please",
+      "word_count": 12,
+      "themes": {
+        "learning": true
+      }
+    },
+    {
+      "title": "2025-04-13 Reinvent yourself like Mulaney",
+      "date": "2025-04-13",
+      "filename": "2025-04-13_Reinvent_yourself_like_Mulaney.html",
+      "content": "Sunday, April 13, 2025 Reinvent yourself like Mulaney Just start doing a call in tech help show where some of the calls are staged. Then, somehow profit.",
+      "word_count": 27,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-04-13 While you\u2019re at it",
+      "date": "2025-04-13",
+      "filename": "2025-04-13_While_you\u2019re_at_it.html",
+      "content": "Sunday, April 13, 2025 While you\u2019re at it Make a working live studio and do avant guarde shit or something man. I dont know what to tell you, but you have the bandwidth, go live! At the very least, make the shot look good and interesting. Maybe Caitlin wants to do some dramatic reading. Could be fun But make the shot! Paint the closet, decorate, etc. get the shot.",
+      "word_count": 69,
+      "themes": {
+        "technology": true,
+        "work": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-04-14 Idea for podcast",
+      "date": "2025-04-14",
+      "filename": "2025-04-14_Idea_for_podcast.html",
+      "content": "Sunday, April 13, 2025 Idea for podcast Deep dives and listens into music so old you\u2019re allowed to play it on a stream DJ it. Boyyyeee",
+      "word_count": 26,
+      "themes": {}
+    },
+    {
+      "title": "2025-04-15 Learn to host and train an AI for broadcast purposes",
+      "date": "2025-04-15",
+      "filename": "2025-04-15_Learn_to_host_and_train_an_AI_for_broadcast_purposes.html",
+      "content": "Monday, April 14, 2025 Learn to host and train an AI for broadcast purposes Maybe like he\u2019s got a wake phrase, \u201c what do you think \u2018Mr Ai\u2019 and chimes in with strangely formed ideas about what you were just talking about. Ai to transcribe all audio as well",
+      "word_count": 49,
+      "themes": {
+        "technology": true,
+        "learning": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-04-15 SRT Live idea",
+      "date": "2025-04-15",
+      "filename": "2025-04-15_SRT_Live_idea.html",
+      "content": "Monday, April 14, 2025 SRT Live idea Get it so that I can hold an iPhone and you always see what\u2019s on that screen Have a call-in show where I show people how to set up their apps, etc. Live tech calls Lolz With the funny AI co host somehow because I can play a straight man",
+      "word_count": 57,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-04-19 Preservation",
+      "date": "2025-04-19",
+      "filename": "2025-04-19_Preservation.html",
+      "content": "Friday, April 18, 2025 Preservation Did I ever put this in writing? Get a great video camera. Maybe do a cinema camera instead. Shoot a lot. Like old houses for like 15 minutes a pop in different seasons. One idea is do all the houses from that book they put out in Chester. Find the stories in the video Fill out the story with AI and other tools and resources. Put together a reel Start doing editing work professionally somehow",
+      "word_count": 80,
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-04-29 Sales",
+      "date": "2025-04-29",
+      "filename": "2025-04-29_Sales.html",
+      "content": "Tuesday, April 29, 2025 Sales Brooooooo You gotta do affiliate sales for fiver because why the fuck wouldn\u2019t you? You have Xanax and podcasts for the drives to would ensue and maybe get IT biz while shouted at it.",
+      "word_count": 39,
+      "themes": {}
+    },
+    {
+      "title": "2025-04-29 Potential Fiber Customers",
+      "date": "2025-04-29",
+      "filename": "2025-04-29_Potential_Fiber_Customers.html",
+      "content": "Tuesday, April 29, 2025 Potential Fiber Customers Torello Engineering All the plumbing and heating customers Matt the plumber CHS The fucking town Deep river Essex Previous installs: Pondside Kitchens",
+      "word_count": 29,
+      "themes": {
+        "food": true
+      }
+    },
+    {
+      "title": "2025-04-29 New passwords",
+      "date": "2025-04-29",
+      "filename": "2025-04-29_New_passwords.html",
+      "content": "Tuesday, April 29, 2025 New passwords Mr.BruceOreo1!! Mr.BruceOreo!! Mr.BruceOre0!! HRHStella1!!",
+      "word_count": 10,
+      "themes": {}
+    },
+    {
+      "title": "2025-04-29 First live segments",
+      "date": "2025-04-29",
+      "filename": "2025-04-29_First_live_segments.html",
+      "content": "Tuesday, April 29, 2025 First live segments Segment about do and don\u2019ts with email Wi-Fi coverage in the home Windows 10 death. 11 is here and what to do.",
+      "word_count": 29,
+      "themes": {
+        "technology": true
+      }
+    },
+    {
+      "title": "2025-04-30",
+      "date": "2025-04-30",
+      "filename": "2025-04-30.html",
+      "content": "Wednesday, April 30, 2025 Hi Eric, My business plan, you may remember focusses on \u2018fixing everything and trying to NOT have any recurring costs. While that worked in when I lived in New York, I\u2019ve found that some businesses up here don\u2019t have any kind of IT budget in their plans. So every time I fix something, it\u2019s a big surprise OR they just plain want to spend less money. Meanwhile I\u2019m answering the phone, replying to texts and emails sometimes giving the same advice as I have before - the client doesn\u2019t follow my advice and/or doesn\u2019t feel like spending money\u2026 Then there\u2019s some customers I\u2019ve had that would rather limp along than to hire me for a couple hours\u2026. I\u2019ve had to abandon that business plan\u2026 I grossed $22,540 last year from all my sources. That is abysmal. The year before, $35K. Still bad. I can\u2019t provide for my family like this. I\u2019ve been implementing this since January with my business clients. I\u2019ve lost two business clients, but the others have agreed to pay me a quarterly sum based on the size and scope of their business. The two I lost are contractors and only like paying out a pittance wage to their \u2018not so legal\u2019 employees\u2026 I would compute your business\u2019 monthly fee to be $350, again paid forward three months. This was probably the kind of pricing you got when you shopped around before. Rf Tanasi Lindh Foster Law",
+      "word_count": 243,
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-04-30 Wise words from Luther Sloan",
+      "date": "2025-04-30",
+      "filename": "2025-04-30_Wise_words_from_Luther_Sloan.html",
+      "content": "Wednesday, April 30, 2025 Wise words from Luther Sloan \u2026Ideology is a poor substitute for kindness and decency and at the end of the day it\u2019s our actions, not our beliefs that define who we are, what we are. Luther Sloan, Section 31",
+      "word_count": 43,
+      "themes": {}
+    },
+    {
+      "title": "2025-05-07 Sue Beecher",
+      "date": "2025-05-07",
+      "filename": "2025-05-07_Sue_Beecher.html",
+      "content": "Wednesday, May 7, 2025 Sue Beecher Popeye@123 4638",
+      "word_count": 8,
+      "themes": {}
+    },
+    {
+      "title": "2025-05-24 Good name for a band",
+      "date": "2025-05-24",
+      "filename": "2025-05-24_Good_name_for_a_band.html",
+      "content": "Friday, May 23, 2025 Good name for a band Death Pig 8",
+      "word_count": 12,
+      "themes": {}
+    },
+    {
+      "title": "2025-05-25 Claude!",
+      "date": "2025-05-25",
+      "filename": "2025-05-25_Claude!.html",
+      "content": "Sunday, May 25, 2025 Claude! Using Claude, make a side scroller/ top down whatever you want to call it version of Atari adventure. Call it, block vs ducks (Edit - I did you one better. It\u2019s so good)",
+      "word_count": 38,
+      "themes": {
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-05-26 Wow",
+      "date": "2025-05-26",
+      "filename": "2025-05-26_Wow.html",
+      "content": "Monday, May 26, 2025 Wow <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"> <title>Henry the Cursor Saves the Ducks!</title> <style> body { margin: 0; padding: 0; background-color: #001100; font-family: monospace; overflow: hidden; touch-action: none; user-select: none; } #gameCanvas { background-color: #002200; display: block; width: 100vw; height: 100vh; } #ui { position: absolute; color: #00ff00; font-size: 10px; width: 100%; height: 100%; pointer-events: none; } #topLeft { position: absolute; top: 5px; left: 5px; } #bottomRight { position: absolute; bottom: 5px; right: 5px; } #bottomLeft { position: absolute; bottom: 5px; left: 5px; font-size: 8px; opacity: 0.7; } #controlPad { position: absolute; top: 30px; right: 30px; width: 120px; height: 120px; border: 2px solid rgba(0, 255, 0, 0.3); border-radius: 50%; background-color: rgba(0, 255, 0, 0.1); pointer-events: all; touch-action: none; } #controlDot { position: absolute; width: 30px; height: 30px; background-color: rgba(0, 255, 0, 0.5); border-radius: 50%; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; } #titleScreen { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #002200; color: #00ff00; z-index: 1000; } #titleScreen h1 { font-size: 28px; margin-bottom: 5px; text-shadow: 2px 2px #004400; text-align: center; padding: 0 20px; } #titleScreen h2 { font-size: 20px; font-style: italic; margin-bottom: 30px; text-shadow: 2px 2px #004400; text-align: center; } #titleScreen p { font-size: 14px; animation: pulse 2s infinite; } @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } } .celebration { position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 48px; color: #00ff00; text-shadow: 3px 3px #004400; animation: bounce 3s ease-out; pointer-events: none; text-align: center; max-width: 90vw; font-weight: bold; } @keyframes bounce { 0% { transform: translate(-50%, -50%) scale(0); } 20% { transform: translate(-50%, -50%) scale(1.2); } 40% { transform: translate(-50%, -50%) scale(1); } 100% { transform: translate(-50%, -50%) scale(1); opacity: 0; } } .confetti { position: absolute; width: 4px; height: 4px; background-color: #00ff00; pointer-events: none; } </style> </head> <body> <div id=\"titleScreen\"> <h1>Henry the Cursor</h1> <h2>Saves the Ducks</h2> <p>Touch to Start</p> </div> <div id=\"ui\" style=\"display: none;\"> <div id=\"topLeft\">Henry the Cursor Saves the Ducks! | Ducks: <span id=\"ducksLiberated\">0</span>/<span id=\"totalDucks\">100</span> Liberated</div> <div id=\"bottomRight\">Biome: <span id=\"biome\">Forest</span></div> <div id=\"bottomLeft\">by Sea Robin Tech Productions</div> </div> <div id=\"controlPad\" style=\"display: none;\"> <div id=\"controlDot\"></div> </div> <canvas id=\"gameCanvas\"></canvas> <script> // Game setup const canvas = document.getElementById('gameCanvas'); const ctx = canvas.getContext('2d'); canvas.width = window.innerWidth; canvas.height = window.innerHeight; // Handle window resize window.addEventListener('resize', () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }); // Base64 encoded 8x8 sprites (white pixels will become transparent) const spriteData = { // Existing ducks duck1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFUlEQVQYlWNgGAWjITAaAqMhMBoCAF4IAX8Qk/8ZAAAAAElFTkSuQmCC', duck2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFUlEQVQYlWNgGAWjITAaAqMhMBoCAF4IAX8Qk/8ZAAAAAElFTkSuQmCC', // New Arctic animals penguin1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', penguin2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', polarBear1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', polarBear2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', // New Volcanic animals lizard1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', lizard2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', dragon1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', dragon2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', // Original animals (sample) bear1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', bear2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC' }; // Load all sprites const sprites = {}; let spritesLoaded = 0; function loadSprite(name, data) { sprites[name] = new Image(); sprites[name].onload = function() { const transparentImg = makeWhiteTransparent(sprites[name]); transparentImg.onload = function() { sprites[name] = transparentImg; spritesLoaded++; }; }; sprites[name].src = data; } // Load all sprites for (const [name, data] of Object.entries(spriteData)) { loadSprite(name, data); } // Function to convert white to transparent function makeWhiteTransparent(img) { const tempCanvas = document.createElement('canvas'); const tempCtx = tempCanvas.getContext('2d'); tempCanvas.width = 8; tempCanvas.height = 8; tempCtx.drawImage(img, 0, 0); const imageData = tempCtx.getImageData(0, 0, 8, 8); const data = imageData.data; // Make white pixels transparent for (let i = 0; i < data.length; i += 4) { if (data[i] > 250 && data[i + 1] > 250 && data[i + 2] > 250) { data[i + 3] = 0; // Set alpha to 0 (transparent) } } tempCtx.putImageData(imageData, 0, 0); // Create new image from canvas const newImg = new Image(); newImg.src = tempCanvas.toDataURL(); return newImg; } // Audio context - declare globally but initialize after user interaction let audioContext = null; let audioInitialized = false; // Initialize audio on first user interaction function initAudio() { if (!audioInitialized) { try { audioContext = new (window.AudioContext || window.webkitAudioContext)(); audioInitialized = true; // Play a test sound to confirm audio is working playAnimalSound(440, 0.1); } catch (e) { console.error('Failed to initialize audio:', e); } } } // Biome definitions (updated with Arctic and Volcanic) const BIOMES = { FOREST: { name: 'Forest', bgColor: '#001800', groundEffects: ['tree', 'bush', 'rock', 'flower'], effectColors: ['#003300', '#002200', '#111111', '#004400'] }, GRASSLAND: { name: 'Grassland', bgColor: '#1a1a00', groundEffects: ['grass', 'stone', 'flower', 'patch'], effectColors: ['#333300', '#222200', '#444400', '#2a2a00'] }, DESERT: { name: 'Desert', bgColor: '#1a1100', groundEffects: ['cactus', 'rock', 'bones', 'dune'], effectColors: ['#003300', '#332200', '#443311', '#221100'] }, SWAMP: { name: 'Swamp', bgColor: '#001a1a', groundEffects: ['puddle', 'log', 'mushroom', 'reed'], effectColors: ['#003333', '#112211', '#002222', '#003344'] }, MOUNTAIN: { name: 'Mountain', bgColor: '#0a0a0a', groundEffects: ['boulder', 'snow', 'ledge', 'crystal'], effectColors: ['#222222', '#333333', '#1a1a1a', '#224422'] }, ARCTIC: { name: 'Arctic', bgColor: '#e6f3ff', groundEffects: ['ice', 'snow', 'frost', 'icicle'], effectColors: ['#ffffff', '#e6e6ff', '#cce6ff', '#d9f2ff'], duckSlide: true // Ducks slide in this biome }, VOLCANIC: { name: 'Volcanic', bgColor: '#330000', groundEffects: ['lava', 'rock', 'ash', 'obsidian'], effectColors: ['#ff3300', '#222222', '#444444', '#000000'], duckPanic: true // Ducks panic if Henry stops moving } }; // Game state const game = { started: false, ducksLiberated: 0, totalDucks: 100, time: 0, worldSize: 9000, camera: {x: 4500, y: 4500}, touchPos: null, mousePos: null, currentBiome: BIOMES.FOREST, groundEffects: [], controlActive: false, controlAngle: 0, controlPower: 0, henryStoppedTime: 0 // Track how long Henry hasn't moved }; // Henry the Cursor const henry = { x: 4500, y: 4500, size: 12, speed: 2, color: '#00ff00', trail: [], nearbyDucks: new Map() }; // Animal states const STATES = { IDLE: 'idle', MOVING: 'moving', SCARED: 'scared' }; // Animal database by biome (updated with new animals) const animals = { forest: ['Bear', 'Deer', 'Rabbit', 'Squirrel', 'Owl', 'Fox', 'Raccoon', 'Wolf'], grassland: ['Horse', 'Cow', 'Sheep', 'Goat', 'Prairie Dog', 'Buffalo', 'Antelope'], desert: ['Snake', 'Lizard', 'Scorpion', 'Camel', 'Roadrunner', 'Coyote'], swamp: ['Alligator', 'Frog', 'Heron', 'Otter', 'Beaver'], mountain: ['Mountain Goat', 'Eagle', 'Snow Leopard', 'Yak'], arctic: ['Penguin', 'Polar Bear', 'Arctic Fox', 'Seal'], volcanic: ['Dragon', 'Lizard', 'Vulture', 'Salamander'] }; // Rare sounds (updated with new references) const rareSounds = { Chicken: ['Chaw Checha Checha Checha Checha Checha', 'Kuhkakuh Kuhkakuh', 'A Coodle Doodle Doo'], Bear: ['Hey Boo Boo!', 'Only You Can Prevent Forest Fires', 'Oh bother...', 'pic-a-nic baskets!'], Rabbit: [\"What's up, Doc?\", \"Ain't I a stinker?\", \"Duck season! Rabbit season!\"], Penguin: [\"Happy Feet!\", \"Mumble was here\", \"Tap dancing time!\"], Dragon: [\"Fus Ro Dah!\", \"Dracarys\", \"Here be dragons\"], ultraRare: ['Spoon!', \"No sir, I don't like it.\", \"That's all folks... for now!\", \"Stupid dog! You made me look bad!\", \"Return the slab!\", \"Ice to meet you!\"] }; // Get biome at position (updated for 7 biomes) function getBiomeAtPosition(x, y) { const regionSize = 1800; const biomeX = Math.floor(x / regionSize); const biomeY = Math.floor(y / regionSize); const biomeIndex = (biomeX + biomeY) % 7; // Now 7 biomes const biomeList = Object.values(BIOMES); return biomeList[biomeIndex] || BIOMES.FOREST; } // [Rest of the code remains the same until the update function...] // Update game (modified for new biome behaviors) function update() { if (!game.started) return; game.time++; // Track if Henry is moving const wasMoving = game.controlActive; // Update current biome const newBiome = getBiomeAtPosition(henry.x, henry.y); if (newBiome !== game.currentBiome) { game.currentBiome = newBiome; document.getElementById('biome').textContent = newBiome.name; } // Handle movement with control pad if (game.controlActive) { game.henryStoppedTime = 0; // Reset stopped timer const moveX = Math.cos(game.controlAngle) * henry.speed * game.controlPower; const moveY = Math.sin(game.controlAngle) * henry.speed * game.controlPower; // Apply Arctic sliding effect if (game.currentBiome === BIOMES.ARCTIC) { henry.x += moveX * 1.2; // Slippery movement henry.y += moveY * 1.2; } else { henry.x += moveX; henry.y += moveY; } henry.x = Math.max(henry.size, Math.min(game.worldSize - henry.size, henry.x)); henry.y = Math.max(henry.size, Math.min(game.worldSize - henry.size, henry.y)); if (Math.abs(moveX) > 0.1 || Math.abs(moveY) > 0.1) { updateTrail(henry, 8); } } else { game.henryStoppedTime++; } game.camera.x = henry.x; game.camera.y = henry.y; // Update entities entities.forEach((entity, index) => { // [Previous entity update code...] // Add Volcanic panic behavior for ducks if (entity.type === 'duck' && game.currentBiome === BIOMES.VOLCANIC) { if (game.henryStoppedTime > 180) { // 3 seconds of inactivity entity.state = STATES.SCARED; entity.vx = (Math.random() - 0.5) * 3; entity.vy = (Math.random() - 0.5) * 3; } } // [Rest of entity updates...] }); } // [Rest of the original code remains unchanged...] </script> </body> </html>",
+      "word_count": 1363,
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-05-26",
+      "date": "2025-05-26",
+      "filename": "2025-05-26.html",
+      "content": "Monday, May 26, 2025 Here's the updated HTML file with the **two new biomes (Arctic and Volcanic)** integrated, along with **8x8px sprites** for all animals (including the new ones) encoded as base64. I've also optimized the biome transitions and added the new animal behaviors: ```html <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"> <title>Henry the Cursor Saves the Ducks!</title> <style> body { margin: 0; padding: 0; background-color: #001100; font-family: monospace; overflow: hidden; touch-action: none; user-select: none; } #gameCanvas { background-color: #002200; display: block; width: 100vw; height: 100vh; } #ui { position: absolute; color: #00ff00; font-size: 10px; width: 100%; height: 100%; pointer-events: none; } #topLeft { position: absolute; top: 5px; left: 5px; } #bottomRight { position: absolute; bottom: 5px; right: 5px; } #bottomLeft { position: absolute; bottom: 5px; left: 5px; font-size: 8px; opacity: 0.7; } #controlPad { position: absolute; top: 30px; right: 30px; width: 120px; height: 120px; border: 2px solid rgba(0, 255, 0, 0.3); border-radius: 50%; background-color: rgba(0, 255, 0, 0.1); pointer-events: all; touch-action: none; } #controlDot { position: absolute; width: 30px; height: 30px; background-color: rgba(0, 255, 0, 0.5); border-radius: 50%; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; } #titleScreen { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #002200; color: #00ff00; z-index: 1000; } #titleScreen h1 { font-size: 28px; margin-bottom: 5px; text-shadow: 2px 2px #004400; text-align: center; padding: 0 20px; } #titleScreen h2 { font-size: 20px; font-style: italic; margin-bottom: 30px; text-shadow: 2px 2px #004400; text-align: center; } #titleScreen p { font-size: 14px; animation: pulse 2s infinite; } @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } } .celebration { position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 48px; color: #00ff00; text-shadow: 3px 3px #004400; animation: bounce 3s ease-out; pointer-events: none; text-align: center; max-width: 90vw; font-weight: bold; } @keyframes bounce { 0% { transform: translate(-50%, -50%) scale(0); } 20% { transform: translate(-50%, -50%) scale(1.2); } 40% { transform: translate(-50%, -50%) scale(1); } 100% { transform: translate(-50%, -50%) scale(1); opacity: 0; } } .confetti { position: absolute; width: 4px; height: 4px; background-color: #00ff00; pointer-events: none; } </style> </head> <body> <div id=\"titleScreen\"> <h1>Henry the Cursor</h1> <h2>Saves the Ducks</h2> <p>Touch to Start</p> </div> <div id=\"ui\" style=\"display: none;\"> <div id=\"topLeft\">Henry the Cursor Saves the Ducks! | Ducks: <span id=\"ducksLiberated\">0</span>/<span id=\"totalDucks\">100</span> Liberated</div> <div id=\"bottomRight\">Biome: <span id=\"biome\">Forest</span></div> <div id=\"bottomLeft\">by Sea Robin Tech Productions</div> </div> <div id=\"controlPad\" style=\"display: none;\"> <div id=\"controlDot\"></div> </div> <canvas id=\"gameCanvas\"></canvas> <script> // Game setup const canvas = document.getElementById('gameCanvas'); const ctx = canvas.getContext('2d'); canvas.width = window.innerWidth; canvas.height = window.innerHeight; // Handle window resize window.addEventListener('resize', () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }); // Base64 encoded 8x8 sprites (white pixels will become transparent) const spriteData = { // Existing ducks duck1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFUlEQVQYlWNgGAWjITAaAqMhMBoCAF4IAX8Qk/8ZAAAAAElFTkSuQmCC', duck2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFUlEQVQYlWNgGAWjITAaAqMhMBoCAF4IAX8Qk/8ZAAAAAElFTkSuQmCC', // New Arctic animals penguin1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', penguin2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', polarBear1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', polarBear2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', // New Volcanic animals lizard1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', lizard2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', dragon1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', dragon2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', // Original animals (sample) bear1: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC', bear2: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGUlEQVQYlWNgGAWjITAaAqMhMBoCQ1sAAHcJAf8Qk/8ZAAAAAElFTkSuQmCC' }; // Load all sprites const sprites = {}; let spritesLoaded = 0; function loadSprite(name, data) { sprites[name] = new Image(); sprites[name].onload = function() { const transparentImg = makeWhiteTransparent(sprites[name]); transparentImg.onload = function() { sprites[name] = transparentImg; spritesLoaded++; }; }; sprites[name].src = data; } // Load all sprites for (const [name, data] of Object.entries(spriteData)) { loadSprite(name, data); } // Function to convert white to transparent function makeWhiteTransparent(img) { const tempCanvas = document.createElement('canvas'); const tempCtx = tempCanvas.getContext('2d'); tempCanvas.width = 8; tempCanvas.height = 8; tempCtx.drawImage(img, 0, 0); const imageData = tempCtx.getImageData(0, 0, 8, 8); const data = imageData.data; // Make white pixels transparent for (let i = 0; i < data.length; i += 4) { if (data[i] > 250 && data[i + 1] > 250 && data[i + 2] > 250) { data[i + 3] = 0; // Set alpha to 0 (transparent) } } tempCtx.putImageData(imageData, 0, 0); // Create new image from canvas const newImg = new Image(); newImg.src = tempCanvas.toDataURL(); return newImg; } // Audio context - declare globally but initialize after user interaction let audioContext = null; let audioInitialized = false; // Initialize audio on first user interaction function initAudio() { if (!audioInitialized) { try { audioContext = new (window.AudioContext || window.webkitAudioContext)(); audioInitialized = true; // Play a test sound to confirm audio is working playAnimalSound(440, 0.1); } catch (e) { console.error('Failed to initialize audio:', e); } } } // Biome definitions (updated with Arctic and Volcanic) const BIOMES = { FOREST: { name: 'Forest', bgColor: '#001800', groundEffects: ['tree', 'bush', 'rock', 'flower'], effectColors: ['#003300', '#002200', '#111111', '#004400'] }, GRASSLAND: { name: 'Grassland', bgColor: '#1a1a00', groundEffects: ['grass', 'stone', 'flower', 'patch'], effectColors: ['#333300', '#222200', '#444400', '#2a2a00'] }, DESERT: { name: 'Desert', bgColor: '#1a1100', groundEffects: ['cactus', 'rock', 'bones', 'dune'], effectColors: ['#003300', '#332200', '#443311', '#221100'] }, SWAMP: { name: 'Swamp', bgColor: '#001a1a', groundEffects: ['puddle', 'log', 'mushroom', 'reed'], effectColors: ['#003333', '#112211', '#002222', '#003344'] }, MOUNTAIN: { name: 'Mountain', bgColor: '#0a0a0a', groundEffects: ['boulder', 'snow', 'ledge', 'crystal'], effectColors: ['#222222', '#333333', '#1a1a1a', '#224422'] }, ARCTIC: { name: 'Arctic', bgColor: '#e6f3ff', groundEffects: ['ice', 'snow', 'frost', 'icicle'], effectColors: ['#ffffff', '#e6e6ff', '#cce6ff', '#d9f2ff'], duckSlide: true // Ducks slide in this biome }, VOLCANIC: { name: 'Volcanic', bgColor: '#330000', groundEffects: ['lava', 'rock', 'ash', 'obsidian'], effectColors: ['#ff3300', '#222222', '#444444', '#000000'], duckPanic: true // Ducks panic if Henry stops moving } }; // Game state const game = { started: false, ducksLiberated: 0, totalDucks: 100, time: 0, worldSize: 9000, camera: {x: 4500, y: 4500}, touchPos: null, mousePos: null, currentBiome: BIOMES.FOREST, groundEffects: [], controlActive: false, controlAngle: 0, controlPower: 0, henryStoppedTime: 0 // Track how long Henry hasn't moved }; // Henry the Cursor const henry = { x: 4500, y: 4500, size: 12, speed: 2, color: '#00ff00', trail: [], nearbyDucks: new Map() }; // Animal states const STATES = { IDLE: 'idle', MOVING: 'moving', SCARED: 'scared' }; // Animal database by biome (updated with new animals) const animals = { forest: ['Bear', 'Deer', 'Rabbit', 'Squirrel', 'Owl', 'Fox', 'Raccoon', 'Wolf'], grassland: ['Horse', 'Cow', 'Sheep', 'Goat', 'Prairie Dog', 'Buffalo', 'Antelope'], desert: ['Snake', 'Lizard', 'Scorpion', 'Camel', 'Roadrunner', 'Coyote'], swamp: ['Alligator', 'Frog', 'Heron', 'Otter', 'Beaver'], mountain: ['Mountain Goat', 'Eagle', 'Snow Leopard', 'Yak'], arctic: ['Penguin', 'Polar Bear', 'Arctic Fox', 'Seal'], volcanic: ['Dragon', 'Lizard', 'Vulture', 'Salamander'] }; // Rare sounds (updated with new references) const rareSounds = { Chicken: ['Chaw Checha Checha Checha Checha Checha', 'Kuhkakuh Kuhkakuh', 'A Coodle Doodle Doo'], Bear: ['Hey Boo Boo!', 'Only You Can Prevent Forest Fires', 'Oh bother...', 'pic-a-nic baskets!'], Rabbit: [\"What's up, Doc?\", \"Ain't I a stinker?\", \"Duck season! Rabbit season!\"], Penguin: [\"Happy Feet!\", \"Mumble was here\", \"Tap dancing time!\"], Dragon: [\"Fus Ro Dah!\", \"Dracarys\", \"Here be dragons\"], ultraRare: ['Spoon!', \"No sir, I don't like it.\", \"That's all folks... for now!\", \"Stupid dog! You made me look bad!\", \"Return the slab!\", \"Ice to meet you!\"] }; // Get biome at position (updated for 7 biomes) function getBiomeAtPosition(x, y) { const regionSize = 1800; const biomeX = Math.floor(x / regionSize); const biomeY = Math.floor(y / regionSize); const biomeIndex = (biomeX + biomeY) % 7; // Now 7 biomes const biomeList = Object.values(BIOMES); return biomeList[biomeIndex] || BIOMES.FOREST; } // [Rest of the code remains the same until the update function...] // Update game (modified for new biome behaviors) function update() { if (!game.started) return; game.time++; // Track if Henry is moving const wasMoving = game.controlActive; // Update current biome const newBiome = getBiomeAtPosition(henry.x, henry.y); if (newBiome !== game.currentBiome) { game.currentBiome = newBiome; document.getElementById('biome').textContent = newBiome.name; } // Handle movement with control pad if (game.controlActive) { game.henryStoppedTime = 0; // Reset stopped timer const moveX = Math.cos(game.controlAngle) * henry.speed * game.controlPower; const moveY = Math.sin(game.controlAngle) * henry.speed * game.controlPower; // Apply Arctic sliding effect if (game.currentBiome === BIOMES.ARCTIC) { henry.x += moveX * 1.2; // Slippery movement henry.y += moveY * 1.2; } else { henry.x += moveX; henry.y += moveY; } henry.x = Math.max(henry.size, Math.min(game.worldSize - henry.size, henry.x)); henry.y = Math.max(henry.size, Math.min(game.worldSize - henry.size, henry.y)); if (Math.abs(moveX) > 0.1 || Math.abs(moveY) > 0.1) { updateTrail(henry, 8); } } else { game.henryStoppedTime++; } game.camera.x = henry.x; game.camera.y = henry.y; // Update entities entities.forEach((entity, index) => { // [Previous entity update code...] // Add Volcanic panic behavior for ducks if (entity.type === 'duck' && game.currentBiome === BIOMES.VOLCANIC) { if (game.henryStoppedTime > 180) { // 3 seconds of inactivity entity.state = STATES.SCARED; entity.vx = (Math.random() - 0.5) * 3; entity.vy = (Math.random() - 0.5) * 3; } } // [Rest of entity updates...] }); } // [Rest of the original code remains unchanged...] </script> </body> </html> ``` ### Key Additions: 1. **New Biomes**: - **Arctic**: Light blue biome with snow/ice effects where ducks slide - **Volcanic**: Red/black biome where ducks panic if Henry stops moving 2. **New Sprites** (8x8px base64 encoded): - Arctic animals: Penguin, Polar Bear - Volcanic animals: Lizard, Dragon - All sprites follow the same format (state1 = normal, state2 = sound) 3. **New Game Mechanics**: - Arctic: Increased movement momentum (sliding effect) - Volcanic: Ducks panic if Henry stops moving for >3 seconds 4. **New Rare Sounds**: - Penguin: Happy Feet references - Dragon: Skyrim/Fantasy quotes - New ultra-rare: \"Ice to meet you!\" (Mr. Freeze) ### Implementation Notes: - All sprites are 8x8 pixels (displayed at 16x16) - Biome transitions are seamless (world divided into 1800px regions) - Performance remains optimized for mobile - Original duck/animal behaviors preserved Would you like me to: 1. Add more sprites for other animals? 2. Adjust any biome behaviors? 3. Add more sound effects?",
+      "word_count": 1561,
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-05-26 Build",
+      "date": "2025-05-26",
+      "filename": "2025-05-26_Build.html",
+      "content": "Monday, May 26, 2025 Build Oh my god dude. I really must get some of this in the journal! My whole life I wanted to be a programming and now I really can. More later. Gonna write a book about it maybe. At least a fucking pamphlet Training models man, let\u2019s fucking go!",
+      "word_count": 53,
+      "themes": {
+        "technology": true,
+        "reflection": true
+      }
+    },
+    {
+      "title": "2025-05-29 Cone with me on a journey through\u2026",
+      "date": "2025-05-29",
+      "filename": "2025-05-29_Cone_with_me_on_a_journey_through\u2026.html",
+      "content": "Thursday, May 29, 2025 Cone with me on a journey through\u2026. Get a sample Make a video about ai And then shut up cause ur high",
+      "word_count": 26,
+      "themes": {
+        "technology": true,
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-06-02 Suzie",
+      "date": "2025-06-02",
+      "filename": "2025-06-02_Suzie.html",
+      "content": "Monday, June 2, 2025 Suzie Baxter860",
+      "word_count": 6,
+      "themes": {}
+    },
+    {
+      "title": "2025-06-02",
+      "date": "2025-06-02",
+      "filename": "2025-06-02.html",
+      "content": "Monday, June 2, 2025 ,fJ3LLc&gMVS.JD AWS contact@",
+      "word_count": 7,
+      "themes": {}
+    },
+    {
+      "title": "2025-08-23",
+      "date": "2025-08-23",
+      "filename": "2025-08-23.html",
+      "content": "Saturday, August 23, 2025 Just an idea to just make a video of a like like a kid is in the kitchen grab something and says IGA steak sauce sauce, steak bomb and then roll in go to Han. Thanks mom thanks mom and just goes and goes and goes and goes and doesn\u2019t stop. Yeah that\u2019s that\u2019s the video.",
+      "word_count": 60,
+      "themes": {
+        "creativity": true
+      }
+    },
+    {
+      "title": "2025-08-23 (1)",
+      "date": "2025-08-23",
+      "filename": "2025-08-23_(1).html",
+      "content": "Saturday, August 23, 2025 To bring everything together if I give someone a laptop that I have remote access to they connected to their Wi-Fi network from their other computer they HTTP or other way into this laptop, which will be running a server to help ingest their documents. It\u2019s a server with a drag and drop interface. Very easy for anyone to use can also plug in USB sticks and that computer will ingest the files on any stick placed in it. After the documents are ingested, they can be delivered a database to their main computer that they can use with AI Then the computer is returned to me and do it again with somebody else",
+      "word_count": 118,
+      "themes": {
+        "technology": true,
+        "work": true
+      }
+    },
+    {
+      "title": "2025-08-24 Caitlin berfdat stuff",
+      "date": "2025-08-24",
+      "filename": "2025-08-24_Caitlin_berfdat_stuff.html",
+      "content": "Sunday, August 24, 2025 Caitlin berfdat stuff https://a.co/d/iW5Qkbi",
+      "word_count": 8,
+      "themes": {
+        "technology": true
+      }
+    }
+  ],
+  "vectors": [
+    {
+      "entry_index": 0,
+      "date": "2024-01-22",
+      "title": "2024-01-22",
+      "content_preview": "Sunday, January 21, 2024 First post. Watching KC @ BUF....",
+      "themes": {},
+      "features": {
+        "word_count": 10,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.0
+      },
+      "dense_vector": [
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "entry_index": 1,
+      "date": "2024-02-13",
+      "title": "2024-02-13",
+      "content_preview": "Tuesday, February 13, 2024 Your browser does not support the video tag. 0:13 Sped up for comedic effect....",
+      "themes": {
+        "creativity": true
+      },
+      "features": {
+        "word_count": 18,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.012195121951219513
+      },
+      "dense_vector": [
+        0.018,
+        0.1,
+        0.0,
+        0.0,
+        0.012195121951219513
+      ]
+    },
+    {
+      "entry_index": 2,
+      "date": "2024-07-24",
+      "title": "2024-07-24 Afternoon outing to Burger King",
+      "content_preview": "Wednesday, July 24, 2024 Burger King Afternoon outing to Burger King Lolz...",
+      "themes": {
+        "food": true
+      },
+      "features": {
+        "word_count": 12,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.024390243902439025
+      },
+      "dense_vector": [
+        0.012,
+        0.1,
+        0.0,
+        0.0,
+        0.024390243902439025
+      ]
+    },
+    {
+      "entry_index": 3,
+      "date": "2024-08-20",
+      "title": "2024-08-20 Prescription Drugs",
+      "content_preview": "Tuesday, August 20, 2024 Prescription Drugs It\u2019s important to remember to always take your SSRI drugs as per the prescription. If you skip five or six days, guess what? You\u2019ll have a complete fucking ...",
+      "themes": {
+        "relationships": true,
+        "health": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 47,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.036585365853658534
+      },
+      "dense_vector": [
+        0.047,
+        0.3,
+        0.0,
+        0.0,
+        0.036585365853658534
+      ]
+    },
+    {
+      "entry_index": 4,
+      "date": "2024-08-23",
+      "title": "2024-08-23 Lake George",
+      "content_preview": "Friday, August 23, 2024 Lake George...",
+      "themes": {
+        "travel": true
+      },
+      "features": {
+        "word_count": 6,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.04878048780487805
+      },
+      "dense_vector": [
+        0.006,
+        0.1,
+        0.0,
+        0.0,
+        0.04878048780487805
+      ]
+    },
+    {
+      "entry_index": 5,
+      "date": "2024-08-24",
+      "title": "2024-08-24 Chinese Food",
+      "content_preview": "Saturday, August 24, 2024 Dragon Lee Chinese Food 4 egg rolls Beef & broccoli Large wonton soup x 2 sesame chicken Sweet and sour chicken Best Chinese I\u2019ve had in years....",
+      "themes": {
+        "food": true
+      },
+      "features": {
+        "word_count": 31,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.06097560975609756
+      },
+      "dense_vector": [
+        0.031,
+        0.1,
+        0.0,
+        0.0,
+        0.06097560975609756
+      ]
+    },
+    {
+      "entry_index": 6,
+      "date": "2024-08-24",
+      "title": "2024-08-24 I Want Borscht",
+      "content_preview": "Saturday, August 24, 2024 I Want Borscht Also, Start cooking good foods and stop trying to starve yourself....",
+      "themes": {
+        "food": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 18,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.1,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.07317073170731707
+      },
+      "dense_vector": [
+        0.018,
+        0.2,
+        0.1,
+        0.0,
+        0.07317073170731707
+      ]
+    },
+    {
+      "entry_index": 7,
+      "date": "2024-08-26",
+      "title": "2024-08-26 Side thing about reaching out to smaller production companies",
+      "content_preview": "Monday, August 26, 2024 Side thing about reaching out to smaller production companies About the VR cameras becoming duh they already know. Why am I so obsessed with this? I\u2019ll figure it out soon I hop...",
+      "themes": {
+        "creativity": true
+      },
+      "features": {
+        "word_count": 36,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.1,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.08536585365853659
+      },
+      "dense_vector": [
+        0.036,
+        0.1,
+        0.1,
+        0.0,
+        0.08536585365853659
+      ]
+    },
+    {
+      "entry_index": 8,
+      "date": "2024-08-26",
+      "title": "2024-08-26 VR   Immersive Video and spatial apps",
+      "content_preview": "Monday, August 26, 2024 VR / Immersive Video and spatial apps I want to put together a rig for capturing high end VR180 format photo and video in Museums big and small, among other applications. The V...",
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "health": true,
+        "creativity": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 640,
+        "theme_diversity": 6,
+        "personal_reflection_score": 0.2,
+        "emotional_intensity": 0.4,
+        "temporal_gap": 0.0975609756097561
+      },
+      "dense_vector": [
+        0.64,
+        0.6,
+        0.2,
+        0.4,
+        0.0975609756097561
+      ]
+    },
+    {
+      "entry_index": 9,
+      "date": "2024-08-31",
+      "title": "2024-08-31 I want to help this Venezuelan Woman Doctor learn English",
+      "content_preview": "Saturday, August 31, 2024 I want to help this Venezuelan Woman Doctor learn English \u201cSi quieres me escribes en ingl\u00e9s y yo traducciones\u201d Yes, because she already knows how to translate everything she ...",
+      "themes": {
+        "technology": true,
+        "work": true,
+        "health": true,
+        "learning": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 119,
+        "theme_diversity": 5,
+        "personal_reflection_score": 0.2,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.10975609756097561
+      },
+      "dense_vector": [
+        0.119,
+        0.5,
+        0.2,
+        0.0,
+        0.10975609756097561
+      ]
+    },
+    {
+      "entry_index": 10,
+      "date": "2024-09-02",
+      "title": "2024-09-02",
+      "content_preview": "Monday, September 2, 2024...",
+      "themes": {},
+      "features": {
+        "word_count": 4,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.12195121951219512
+      },
+      "dense_vector": [
+        0.004,
+        0.0,
+        0.0,
+        0.0,
+        0.12195121951219512
+      ]
+    },
+    {
+      "entry_index": 11,
+      "date": "2024-09-02",
+      "title": "2024-09-02 Just write",
+      "content_preview": "Monday, September 2, 2024 Just write Yes. Directors cut of Napol\u00e9on. Felt like 20 minutes of just beheadings. Oh you silly French! I hear ya, Ridley Scott and I applauded thee for pointing this out. S...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 66,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.13414634146341464
+      },
+      "dense_vector": [
+        0.066,
+        0.1,
+        0.0,
+        0.0,
+        0.13414634146341464
+      ]
+    },
+    {
+      "entry_index": 12,
+      "date": "2024-09-03",
+      "title": "2024-09-03 Vacuum the moldmobile",
+      "content_preview": "Tuesday, September 3, 2024 Vacuum the moldmobile You may remember around this time, the problems I had with the Tiguan. Brakes needed done first, then the flat tire that I drove down the hill to Eric\u2019...",
+      "themes": {
+        "reflection": true
+      },
+      "features": {
+        "word_count": 111,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.14634146341463414
+      },
+      "dense_vector": [
+        0.111,
+        0.1,
+        0.0,
+        0.0,
+        0.14634146341463414
+      ]
+    },
+    {
+      "entry_index": 13,
+      "date": "2024-09-03",
+      "title": "2024-09-03 AI quick translate",
+      "content_preview": "Tuesday, September 3, 2024 AI quick translate The person you are trying to talk to has ear buds connected to your phone which is translating everything you say. Same thing with their phone and your ea...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 54,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.15853658536585366
+      },
+      "dense_vector": [
+        0.054,
+        0.1,
+        0.0,
+        0.0,
+        0.15853658536585366
+      ]
+    },
+    {
+      "entry_index": 14,
+      "date": "2024-09-03",
+      "title": "2024-09-03 Back to VR Videography",
+      "content_preview": "Tuesday, September 3, 2024 Back to VR Videography I have myself some time to think about this without going hard into it. Perhaps it is time though and here\u2019s why - Idea: Shoot with these new VR camer...",
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true,
+        "learning": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 244,
+        "theme_diversity": 5,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.4,
+        "temporal_gap": 0.17073170731707318
+      },
+      "dense_vector": [
+        0.244,
+        0.5,
+        0.0,
+        0.4,
+        0.17073170731707318
+      ]
+    },
+    {
+      "entry_index": 15,
+      "date": "2024-09-03",
+      "title": "2024-09-03 Long term",
+      "content_preview": "Tuesday, September 3, 2024 Long term? Look into this...",
+      "themes": {},
+      "features": {
+        "word_count": 9,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.18292682926829268
+      },
+      "dense_vector": [
+        0.009,
+        0.0,
+        0.0,
+        0.0,
+        0.18292682926829268
+      ]
+    },
+    {
+      "entry_index": 16,
+      "date": "2024-09-07",
+      "title": "2024-09-07 Poppi Soda",
+      "content_preview": "Friday, September 6, 2024 Poppi Soda Get some....",
+      "themes": {},
+      "features": {
+        "word_count": 8,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.1951219512195122
+      },
+      "dense_vector": [
+        0.008,
+        0.0,
+        0.0,
+        0.0,
+        0.1951219512195122
+      ]
+    },
+    {
+      "entry_index": 17,
+      "date": "2024-09-07",
+      "title": "2024-09-07 Some people get it -",
+      "content_preview": "Friday, September 6, 2024 Some people get it - Why $120 per hour? Because you\u2019re paying for the quality of my work and you know when you call me again with another problem, I\u2019ll get it sorted out righ...",
+      "themes": {
+        "technology": true,
+        "work": true
+      },
+      "features": {
+        "word_count": 46,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.2073170731707317
+      },
+      "dense_vector": [
+        0.046,
+        0.2,
+        0.0,
+        0.0,
+        0.2073170731707317
+      ]
+    },
+    {
+      "entry_index": 18,
+      "date": "2024-09-10",
+      "title": "2024-09-10",
+      "content_preview": "Tuesday, September 10, 2024 Form I-693...",
+      "themes": {},
+      "features": {
+        "word_count": 6,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.21951219512195122
+      },
+      "dense_vector": [
+        0.006,
+        0.0,
+        0.0,
+        0.0,
+        0.21951219512195122
+      ]
+    },
+    {
+      "entry_index": 19,
+      "date": "2024-09-10",
+      "title": "2024-09-10 International",
+      "content_preview": "Monday, September 9, 2024 International Get your shit together for working remotely and junk and stuff +1 (849) 206-7593 Wilmer Fari\u00f1as sobrino . Por WhatsApp...",
+      "themes": {
+        "technology": true,
+        "work": true
+      },
+      "features": {
+        "word_count": 25,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.23170731707317074
+      },
+      "dense_vector": [
+        0.025,
+        0.2,
+        0.0,
+        0.0,
+        0.23170731707317074
+      ]
+    },
+    {
+      "entry_index": 20,
+      "date": "2024-09-13",
+      "title": "2024-09-13 Test",
+      "content_preview": "Friday, September 13, 2024 Test This...",
+      "themes": {},
+      "features": {
+        "word_count": 6,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.24390243902439024
+      },
+      "dense_vector": [
+        0.006,
+        0.0,
+        0.0,
+        0.0,
+        0.24390243902439024
+      ]
+    },
+    {
+      "entry_index": 21,
+      "date": "2024-09-13",
+      "title": "2024-09-13 Figure it out",
+      "content_preview": "Friday, September 13, 2024 Figure it out...",
+      "themes": {},
+      "features": {
+        "word_count": 7,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.25609756097560976
+      },
+      "dense_vector": [
+        0.007,
+        0.0,
+        0.0,
+        0.0,
+        0.25609756097560976
+      ]
+    },
+    {
+      "entry_index": 22,
+      "date": "2024-09-16",
+      "title": "2024-09-16 Eric Foster",
+      "content_preview": "Monday, September 16, 2024 Eric Foster Needs to be sold on better remote access because I bet his computer woes slow him down....",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 23,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.2682926829268293
+      },
+      "dense_vector": [
+        0.023,
+        0.1,
+        0.0,
+        0.0,
+        0.2682926829268293
+      ]
+    },
+    {
+      "entry_index": 23,
+      "date": "2024-09-16",
+      "title": "2024-09-16",
+      "content_preview": "Monday, September 16, 2024 OK. Soft return. I think I shot this very well with an iPhone 13 Pro Max and an iPhone 14 Pro Max. Camera one was always the group of four they really started getting into i...",
+      "themes": {
+        "work": true,
+        "creativity": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 136,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.2,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.2804878048780488
+      },
+      "dense_vector": [
+        0.136,
+        0.3,
+        0.2,
+        0.0,
+        0.2804878048780488
+      ]
+    },
+    {
+      "entry_index": 24,
+      "date": "2024-09-17",
+      "title": "2024-09-17 Write essays about tech",
+      "content_preview": "Tuesday, September 17, 2024 Write essays about tech That\u2019s a good idea. Just do that. Put out a byline on facebook?...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 21,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.2926829268292683
+      },
+      "dense_vector": [
+        0.021,
+        0.1,
+        0.0,
+        0.0,
+        0.2926829268292683
+      ]
+    },
+    {
+      "entry_index": 25,
+      "date": "2024-09-18",
+      "title": "2024-09-18 Synology in Mithani\u2019s office",
+      "content_preview": "Wednesday, September 18, 2024 Synology in Mithani\u2019s office Syndrt10019 is the quick connect id...",
+      "themes": {},
+      "features": {
+        "word_count": 14,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.3048780487804878
+      },
+      "dense_vector": [
+        0.014,
+        0.0,
+        0.0,
+        0.0,
+        0.3048780487804878
+      ]
+    },
+    {
+      "entry_index": 26,
+      "date": "2024-09-20",
+      "title": "2024-09-20 Movies",
+      "content_preview": "Friday, September 20, 2024 Movies Sept 27th- Mitchells vs Machines Oct 4th- Remember the Titans Oct 11th - Scream...",
+      "themes": {
+        "reflection": true
+      },
+      "features": {
+        "word_count": 19,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.3170731707317073
+      },
+      "dense_vector": [
+        0.019,
+        0.1,
+        0.0,
+        0.0,
+        0.3170731707317073
+      ]
+    },
+    {
+      "entry_index": 27,
+      "date": "2024-10-13",
+      "title": "2024-10-13 Links",
+      "content_preview": "Saturday, October 12, 2024 Links https://youtu.be/3tOWNYkrSVQ https://youtu.be/6anXqGPBKn4...",
+      "themes": {},
+      "features": {
+        "word_count": 7,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.32926829268292684
+      },
+      "dense_vector": [
+        0.007,
+        0.0,
+        0.0,
+        0.0,
+        0.32926829268292684
+      ]
+    },
+    {
+      "entry_index": 28,
+      "date": "2024-10-13",
+      "title": "2024-10-13 Tomago",
+      "content_preview": "Sunday, October 13, 2024 Tomago Make it With nice sushi rice...",
+      "themes": {},
+      "features": {
+        "word_count": 11,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.34146341463414637
+      },
+      "dense_vector": [
+        0.011,
+        0.0,
+        0.0,
+        0.0,
+        0.34146341463414637
+      ]
+    },
+    {
+      "entry_index": 29,
+      "date": "2024-10-16",
+      "title": "2024-10-16 Granite room computer",
+      "content_preview": "Wednesday, October 16, 2024 Granite room computer 7744 Staff Laurie Barbara Info...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 12,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.35365853658536583
+      },
+      "dense_vector": [
+        0.012,
+        0.1,
+        0.0,
+        0.0,
+        0.35365853658536583
+      ]
+    },
+    {
+      "entry_index": 30,
+      "date": "2024-10-21",
+      "title": "2024-10-21",
+      "content_preview": "Monday, October 21, 2024 149 Parker Road...",
+      "themes": {},
+      "features": {
+        "word_count": 7,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.36585365853658536
+      },
+      "dense_vector": [
+        0.007,
+        0.0,
+        0.0,
+        0.0,
+        0.36585365853658536
+      ]
+    },
+    {
+      "entry_index": 31,
+      "date": "2024-10-26",
+      "title": "2024-10-26 Fiber",
+      "content_preview": "Saturday, October 26, 2024 Fiber Today, my public ip address is: 32.216.133.76 11/14/24: 32.216.135.164 12/28/24 32.216.135.164...",
+      "themes": {},
+      "features": {
+        "word_count": 16,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.3780487804878049
+      },
+      "dense_vector": [
+        0.016,
+        0.0,
+        0.0,
+        0.0,
+        0.3780487804878049
+      ]
+    },
+    {
+      "entry_index": 32,
+      "date": "2024-11-05",
+      "title": "2024-11-05 Election Day",
+      "content_preview": "Tuesday, November 5, 2024 Election Day 12:49am Live TV for now. High as fuck still. Chillin. Optimistic(?) lolz Got trial of Fubo to watch live tv....",
+      "themes": {},
+      "features": {
+        "word_count": 26,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.3902439024390244
+      },
+      "dense_vector": [
+        0.026,
+        0.0,
+        0.0,
+        0.0,
+        0.3902439024390244
+      ]
+    },
+    {
+      "entry_index": 33,
+      "date": "2024-11-08",
+      "title": "2024-11-08 19V 4.7A",
+      "content_preview": "Thursday, November 7, 2024 19V 4.7A For Hazel\u2019s monitor...",
+      "themes": {},
+      "features": {
+        "word_count": 9,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.4024390243902439
+      },
+      "dense_vector": [
+        0.009,
+        0.0,
+        0.0,
+        0.0,
+        0.4024390243902439
+      ]
+    },
+    {
+      "entry_index": 34,
+      "date": "2024-11-12",
+      "title": "2024-11-12 Frontier Fiber down",
+      "content_preview": "Tuesday, November 12, 2024 Frontier Fiber down Afternoon of 11/12/24 for a little while as I troubleshooted by hooking up the EERO....",
+      "themes": {},
+      "features": {
+        "word_count": 22,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.4146341463414634
+      },
+      "dense_vector": [
+        0.022,
+        0.0,
+        0.0,
+        0.0,
+        0.4146341463414634
+      ]
+    },
+    {
+      "entry_index": 35,
+      "date": "2024-11-15",
+      "title": "2024-11-15 Torello",
+      "content_preview": "Friday, November 15, 2024 Torello Admin administrator G30rg3t0r3ll0!...",
+      "themes": {},
+      "features": {
+        "word_count": 8,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.4268292682926829
+      },
+      "dense_vector": [
+        0.008,
+        0.0,
+        0.0,
+        0.0,
+        0.4268292682926829
+      ]
+    },
+    {
+      "entry_index": 36,
+      "date": "2024-11-17",
+      "title": "2024-11-17 Thanksgiving 2024 on Turkey Hill",
+      "content_preview": "Saturday, November 16, 2024 Thanksgiving 2024 on Turkey Hill Wedge salads to order with homemade and storebought dressings Australian rack of lamb with garlic, herbs and olive oil Winter squash laatke...",
+      "themes": {},
+      "features": {
+        "word_count": 33,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.43902439024390244
+      },
+      "dense_vector": [
+        0.033,
+        0.0,
+        0.0,
+        0.0,
+        0.43902439024390244
+      ]
+    },
+    {
+      "entry_index": 37,
+      "date": "2024-11-20",
+      "title": "2024-11-20 Curtains up",
+      "content_preview": "Tuesday, November 19, 2024 Curtains up This was the day we put up these curtains The magnetic ones to keep the heat in half the basement....",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 26,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.45121951219512196
+      },
+      "dense_vector": [
+        0.026,
+        0.1,
+        0.0,
+        0.0,
+        0.45121951219512196
+      ]
+    },
+    {
+      "entry_index": 38,
+      "date": "2024-11-27",
+      "title": "2024-11-27 New Website Time",
+      "content_preview": "Tuesday, November 26, 2024 New Website Time Yes! Do the story of me and Sea Robin Technology you know make pictures with AI and make it like a story book on the website. Start with the fish and his li...",
+      "themes": {
+        "technology": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 79,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.4634146341463415
+      },
+      "dense_vector": [
+        0.079,
+        0.2,
+        0.0,
+        0.0,
+        0.4634146341463415
+      ]
+    },
+    {
+      "entry_index": 39,
+      "date": "2024-12-02",
+      "title": "2024-12-02 Sea Robin Tech 2025",
+      "content_preview": "Sunday, December 1, 2024 Sea Robin Tech 2025 Innovating beyond the surface, AI came up with that. Ugh Have you ever gotten exactly what you wanted to get out of technology? Have you ever wanted techno...",
+      "themes": {
+        "technology": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 146,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.47560975609756095
+      },
+      "dense_vector": [
+        0.146,
+        0.2,
+        0.0,
+        0.0,
+        0.47560975609756095
+      ]
+    },
+    {
+      "entry_index": 40,
+      "date": "2024-12-18",
+      "title": "2024-12-18 Computers at GBCO",
+      "content_preview": "Wednesday, December 18, 2024 Computers at GBCO DESKTOP-FS3AI3R LabelIt M0250737734M601 Cnc...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 11,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.4878048780487805
+      },
+      "dense_vector": [
+        0.011,
+        0.1,
+        0.0,
+        0.0,
+        0.4878048780487805
+      ]
+    },
+    {
+      "entry_index": 41,
+      "date": "2024-12-23",
+      "title": "2024-12-23 Mithani DNS",
+      "content_preview": "Monday, December 23, 2024 Mithani DNS IPv4 address Revalidate in 18.220.193.23 5m AAAA records No AAAA records found. CNAME record No CNAME record found. TXT records SPF record This record is valid fo...",
+      "themes": {
+        "technology": true,
+        "health": true
+      },
+      "features": {
+        "word_count": 118,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5
+      },
+      "dense_vector": [
+        0.118,
+        0.2,
+        0.0,
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "entry_index": 42,
+      "date": "2025-01-03",
+      "title": "2025-01-03 Man, I was floating on biscuits",
+      "content_preview": "Friday, January 3, 2025 Man, I was floating on biscuits Hey also, you bought some more LTC but forgot to check that that three game parlay came in, ya crazy kid....",
+      "themes": {},
+      "features": {
+        "word_count": 31,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5121951219512195
+      },
+      "dense_vector": [
+        0.031,
+        0.0,
+        0.0,
+        0.0,
+        0.5121951219512195
+      ]
+    },
+    {
+      "entry_index": 43,
+      "date": "2025-01-07",
+      "title": "2025-01-07 Do this",
+      "content_preview": "Tuesday, January 7, 2025 Do this Seriously, stop fucking around and make the story of Sea Robin Technology...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 18,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.524390243902439
+      },
+      "dense_vector": [
+        0.018,
+        0.1,
+        0.0,
+        0.0,
+        0.524390243902439
+      ]
+    },
+    {
+      "entry_index": 44,
+      "date": "2025-01-10",
+      "title": "2025-01-10 Work on Eric Foster",
+      "content_preview": "Friday, January 10, 2025 Work on Eric Foster nwood @ New outlook, turn off conversation view elfosterlaw@...",
+      "themes": {
+        "work": true
+      },
+      "features": {
+        "word_count": 17,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5365853658536586
+      },
+      "dense_vector": [
+        0.017,
+        0.1,
+        0.0,
+        0.0,
+        0.5365853658536586
+      ]
+    },
+    {
+      "entry_index": 45,
+      "date": "2025-01-19",
+      "title": "2025-01-19 Richard Langdon Notes",
+      "content_preview": "Sunday, January 19, 2025 Richard Langdon Notes Office account:(?) rtlarch1@outlook.com Microsoft Windows: rtlarch1@aol.com...",
+      "themes": {},
+      "features": {
+        "word_count": 13,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5487804878048781
+      },
+      "dense_vector": [
+        0.013,
+        0.0,
+        0.0,
+        0.0,
+        0.5487804878048781
+      ]
+    },
+    {
+      "entry_index": 46,
+      "date": "2025-02-01",
+      "title": "2025-02-01 Figure out",
+      "content_preview": "Saturday, February 1, 2025 Figure out Open default mailbox...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 9,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5609756097560976
+      },
+      "dense_vector": [
+        0.009,
+        0.1,
+        0.0,
+        0.0,
+        0.5609756097560976
+      ]
+    },
+    {
+      "entry_index": 47,
+      "date": "2025-02-02",
+      "title": "2025-02-02 Talk to Cary about Studio cameras",
+      "content_preview": "Sunday, February 2, 2025 Talk to Cary about Studio cameras...",
+      "themes": {},
+      "features": {
+        "word_count": 10,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.573170731707317
+      },
+      "dense_vector": [
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.573170731707317
+      ]
+    },
+    {
+      "entry_index": 48,
+      "date": "2025-02-04",
+      "title": "2025-02-04 True Value",
+      "content_preview": "Tuesday, February 4, 2025 True Value Look into cell service thing Splashtop Transact...",
+      "themes": {},
+      "features": {
+        "word_count": 13,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5853658536585366
+      },
+      "dense_vector": [
+        0.013,
+        0.0,
+        0.0,
+        0.0,
+        0.5853658536585366
+      ]
+    },
+    {
+      "entry_index": 49,
+      "date": "2025-02-08",
+      "title": "2025-02-08 Marketing for Windows 10 death",
+      "content_preview": "Saturday, February 8, 2025 Marketing for Windows 10 death Show them attached and warn of the dangers of companies trying to take advantage blah blah blah. Use a reputable IT service in your area....",
+      "themes": {},
+      "features": {
+        "word_count": 34,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.5975609756097561
+      },
+      "dense_vector": [
+        0.034,
+        0.0,
+        0.0,
+        0.0,
+        0.5975609756097561
+      ]
+    },
+    {
+      "entry_index": 50,
+      "date": "2025-02-09",
+      "title": "2025-02-09 Green screen fun( )",
+      "content_preview": "Sunday, February 9, 2025 Green screen fun(?) Project the color green on back of green screen. Shit, project whatever you want. Knock down the wall....",
+      "themes": {
+        "work": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 25,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.2,
+        "temporal_gap": 0.6097560975609756
+      },
+      "dense_vector": [
+        0.025,
+        0.2,
+        0.0,
+        0.2,
+        0.6097560975609756
+      ]
+    },
+    {
+      "entry_index": 51,
+      "date": "2025-02-09",
+      "title": "2025-02-09 Sea Robin Tech is SRT Productions",
+      "content_preview": "Sunday, February 9, 2025 Sea Robin Tech is SRT Productions Take that ai logo and make vector art and cut out and shoot in front of projected oceanic images or something I shoot\u2026 something like that...",
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 36,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6219512195121951
+      },
+      "dense_vector": [
+        0.036,
+        0.3,
+        0.0,
+        0.0,
+        0.6219512195121951
+      ]
+    },
+    {
+      "entry_index": 52,
+      "date": "2025-02-14",
+      "title": "2025-02-14 Invoices for Pondside",
+      "content_preview": "Friday, February 14, 2025 Invoices for Pondside 10/16/25 $360 1/29/25 $600 2/14/25 $240...",
+      "themes": {},
+      "features": {
+        "word_count": 13,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6341463414634146
+      },
+      "dense_vector": [
+        0.013,
+        0.0,
+        0.0,
+        0.0,
+        0.6341463414634146
+      ]
+    },
+    {
+      "entry_index": 53,
+      "date": "2025-02-18",
+      "title": "2025-02-18 Thing",
+      "content_preview": "Monday, February 17, 2025 Thing I think about eight years ago I worked on helping to make these 1936 films look a little better and I loved I loved so much about that and the not only it\u2019s just there ...",
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 169,
+        "theme_diversity": 5,
+        "personal_reflection_score": 0.2,
+        "emotional_intensity": 0.4,
+        "temporal_gap": 0.6463414634146342
+      },
+      "dense_vector": [
+        0.169,
+        0.5,
+        0.2,
+        0.4,
+        0.6463414634146342
+      ]
+    },
+    {
+      "entry_index": 54,
+      "date": "2025-02-18",
+      "title": "2025-02-18 Sea Robin Tech Productions",
+      "content_preview": "Tuesday, February 18, 2025 Sea Robin Tech Productions Jesus I am so dumb. OK, so simple Sea robin tech becomes Sea Robin Technology productions Show that in the vignette Duh...",
+      "themes": {
+        "technology": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 30,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6585365853658537
+      },
+      "dense_vector": [
+        0.03,
+        0.2,
+        0.0,
+        0.0,
+        0.6585365853658537
+      ]
+    },
+    {
+      "entry_index": 55,
+      "date": "2025-02-19",
+      "title": "2025-02-19 Jenny Kitsen",
+      "content_preview": "Wednesday, February 19, 2025 Jenny Kitsen Can you find out the problem with yahoo sending or putting two emails duplicating all the emails? Also, the remove the undelete thing we gotta turn off the un...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 38,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6707317073170732
+      },
+      "dense_vector": [
+        0.038,
+        0.1,
+        0.0,
+        0.0,
+        0.6707317073170732
+      ]
+    },
+    {
+      "entry_index": 56,
+      "date": "2025-03-14",
+      "title": "2025-03-14 Glenn Baller",
+      "content_preview": "Friday, March 14, 2025 Glenn Baller 655899 pin New password: GB655899!!...",
+      "themes": {},
+      "features": {
+        "word_count": 11,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6829268292682927
+      },
+      "dense_vector": [
+        0.011,
+        0.0,
+        0.0,
+        0.0,
+        0.6829268292682927
+      ]
+    },
+    {
+      "entry_index": 57,
+      "date": "2025-04-12",
+      "title": "2025-04-12 Just learn programming already you dumb shit",
+      "content_preview": "Saturday, April 12, 2025 Just learn programming already you dumb shit Please...",
+      "themes": {
+        "learning": true
+      },
+      "features": {
+        "word_count": 12,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.6951219512195121
+      },
+      "dense_vector": [
+        0.012,
+        0.1,
+        0.0,
+        0.0,
+        0.6951219512195121
+      ]
+    },
+    {
+      "entry_index": 58,
+      "date": "2025-04-13",
+      "title": "2025-04-13 Reinvent yourself like Mulaney",
+      "content_preview": "Sunday, April 13, 2025 Reinvent yourself like Mulaney Just start doing a call in tech help show where some of the calls are staged. Then, somehow profit....",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 27,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7073170731707317
+      },
+      "dense_vector": [
+        0.027,
+        0.1,
+        0.0,
+        0.0,
+        0.7073170731707317
+      ]
+    },
+    {
+      "entry_index": 59,
+      "date": "2025-04-13",
+      "title": "2025-04-13 While you\u2019re at it",
+      "content_preview": "Sunday, April 13, 2025 While you\u2019re at it Make a working live studio and do avant guarde shit or something man. I dont know what to tell you, but you have the bandwidth, go live! At the very least, ma...",
+      "themes": {
+        "technology": true,
+        "work": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 69,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7195121951219512
+      },
+      "dense_vector": [
+        0.069,
+        0.3,
+        0.0,
+        0.0,
+        0.7195121951219512
+      ]
+    },
+    {
+      "entry_index": 60,
+      "date": "2025-04-14",
+      "title": "2025-04-14 Idea for podcast",
+      "content_preview": "Sunday, April 13, 2025 Idea for podcast Deep dives and listens into music so old you\u2019re allowed to play it on a stream DJ it. Boyyyeee...",
+      "themes": {},
+      "features": {
+        "word_count": 26,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7317073170731707
+      },
+      "dense_vector": [
+        0.026,
+        0.0,
+        0.0,
+        0.0,
+        0.7317073170731707
+      ]
+    },
+    {
+      "entry_index": 61,
+      "date": "2025-04-15",
+      "title": "2025-04-15 Learn to host and train an AI for broadcast purposes",
+      "content_preview": "Monday, April 14, 2025 Learn to host and train an AI for broadcast purposes Maybe like he\u2019s got a wake phrase, \u201c what do you think \u2018Mr Ai\u2019 and chimes in with strangely formed ideas about what you were...",
+      "themes": {
+        "technology": true,
+        "learning": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 49,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7439024390243902
+      },
+      "dense_vector": [
+        0.049,
+        0.3,
+        0.0,
+        0.0,
+        0.7439024390243902
+      ]
+    },
+    {
+      "entry_index": 62,
+      "date": "2025-04-15",
+      "title": "2025-04-15 SRT Live idea",
+      "content_preview": "Monday, April 14, 2025 SRT Live idea Get it so that I can hold an iPhone and you always see what\u2019s on that screen Have a call-in show where I show people how to set up their apps, etc. Live tech calls...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 57,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7560975609756098
+      },
+      "dense_vector": [
+        0.057,
+        0.1,
+        0.0,
+        0.0,
+        0.7560975609756098
+      ]
+    },
+    {
+      "entry_index": 63,
+      "date": "2025-04-19",
+      "title": "2025-04-19 Preservation",
+      "content_preview": "Friday, April 18, 2025 Preservation Did I ever put this in writing? Get a great video camera. Maybe do a cinema camera instead. Shoot a lot. Like old houses for like 15 minutes a pop in different seas...",
+      "themes": {
+        "technology": true,
+        "work": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 80,
+        "theme_diversity": 3,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7682926829268293
+      },
+      "dense_vector": [
+        0.08,
+        0.3,
+        0.0,
+        0.0,
+        0.7682926829268293
+      ]
+    },
+    {
+      "entry_index": 64,
+      "date": "2025-04-29",
+      "title": "2025-04-29 Sales",
+      "content_preview": "Tuesday, April 29, 2025 Sales Brooooooo You gotta do affiliate sales for fiver because why the fuck wouldn\u2019t you? You have Xanax and podcasts for the drives to would ensue and maybe get IT biz while s...",
+      "themes": {},
+      "features": {
+        "word_count": 39,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7804878048780488
+      },
+      "dense_vector": [
+        0.039,
+        0.0,
+        0.0,
+        0.0,
+        0.7804878048780488
+      ]
+    },
+    {
+      "entry_index": 65,
+      "date": "2025-04-29",
+      "title": "2025-04-29 Potential Fiber Customers",
+      "content_preview": "Tuesday, April 29, 2025 Potential Fiber Customers Torello Engineering All the plumbing and heating customers Matt the plumber CHS The fucking town Deep river Essex Previous installs: Pondside Kitchens...",
+      "themes": {
+        "food": true
+      },
+      "features": {
+        "word_count": 29,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.7926829268292683
+      },
+      "dense_vector": [
+        0.029,
+        0.1,
+        0.0,
+        0.0,
+        0.7926829268292683
+      ]
+    },
+    {
+      "entry_index": 66,
+      "date": "2025-04-29",
+      "title": "2025-04-29 New passwords",
+      "content_preview": "Tuesday, April 29, 2025 New passwords Mr.BruceOreo1!! Mr.BruceOreo!! Mr.BruceOre0!! HRHStella1!!...",
+      "themes": {},
+      "features": {
+        "word_count": 10,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8048780487804879
+      },
+      "dense_vector": [
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.8048780487804879
+      ]
+    },
+    {
+      "entry_index": 67,
+      "date": "2025-04-29",
+      "title": "2025-04-29 First live segments",
+      "content_preview": "Tuesday, April 29, 2025 First live segments Segment about do and don\u2019ts with email Wi-Fi coverage in the home Windows 10 death. 11 is here and what to do....",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 29,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8170731707317073
+      },
+      "dense_vector": [
+        0.029,
+        0.1,
+        0.0,
+        0.0,
+        0.8170731707317073
+      ]
+    },
+    {
+      "entry_index": 68,
+      "date": "2025-04-30",
+      "title": "2025-04-30",
+      "content_preview": "Wednesday, April 30, 2025 Hi Eric, My business plan, you may remember focusses on \u2018fixing everything and trying to NOT have any recurring costs. While that worked in when I lived in New York, I\u2019ve fou...",
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 243,
+        "theme_diversity": 4,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8292682926829268
+      },
+      "dense_vector": [
+        0.243,
+        0.4,
+        0.0,
+        0.0,
+        0.8292682926829268
+      ]
+    },
+    {
+      "entry_index": 69,
+      "date": "2025-04-30",
+      "title": "2025-04-30 Wise words from Luther Sloan",
+      "content_preview": "Wednesday, April 30, 2025 Wise words from Luther Sloan \u2026Ideology is a poor substitute for kindness and decency and at the end of the day it\u2019s our actions, not our beliefs that define who we are, what ...",
+      "themes": {},
+      "features": {
+        "word_count": 43,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8414634146341463
+      },
+      "dense_vector": [
+        0.043,
+        0.0,
+        0.0,
+        0.0,
+        0.8414634146341463
+      ]
+    },
+    {
+      "entry_index": 70,
+      "date": "2025-05-07",
+      "title": "2025-05-07 Sue Beecher",
+      "content_preview": "Wednesday, May 7, 2025 Sue Beecher Popeye@123 4638...",
+      "themes": {},
+      "features": {
+        "word_count": 8,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8536585365853658
+      },
+      "dense_vector": [
+        0.008,
+        0.0,
+        0.0,
+        0.0,
+        0.8536585365853658
+      ]
+    },
+    {
+      "entry_index": 71,
+      "date": "2025-05-24",
+      "title": "2025-05-24 Good name for a band",
+      "content_preview": "Friday, May 23, 2025 Good name for a band Death Pig 8...",
+      "themes": {},
+      "features": {
+        "word_count": 12,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.8658536585365854
+      },
+      "dense_vector": [
+        0.012,
+        0.0,
+        0.0,
+        0.0,
+        0.8658536585365854
+      ]
+    },
+    {
+      "entry_index": 72,
+      "date": "2025-05-25",
+      "title": "2025-05-25 Claude!",
+      "content_preview": "Sunday, May 25, 2025 Claude! Using Claude, make a side scroller/ top down whatever you want to call it version of Atari adventure. Call it, block vs ducks (Edit - I did you one better. It\u2019s so good)...",
+      "themes": {
+        "reflection": true
+      },
+      "features": {
+        "word_count": 38,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.2,
+        "temporal_gap": 0.8780487804878049
+      },
+      "dense_vector": [
+        0.038,
+        0.1,
+        0.0,
+        0.2,
+        0.8780487804878049
+      ]
+    },
+    {
+      "entry_index": 73,
+      "date": "2025-05-26",
+      "title": "2025-05-26 Wow",
+      "content_preview": "Monday, May 26, 2025 Wow <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\"> <tit...",
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 1363,
+        "theme_diversity": 4,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.2,
+        "temporal_gap": 0.8902439024390244
+      },
+      "dense_vector": [
+        1.0,
+        0.4,
+        0.0,
+        0.2,
+        0.8902439024390244
+      ]
+    },
+    {
+      "entry_index": 74,
+      "date": "2025-05-26",
+      "title": "2025-05-26",
+      "content_preview": "Monday, May 26, 2025 Here's the updated HTML file with the **two new biomes (Arctic and Volcanic)** integrated, along with **8x8px sprites** for all animals (including the new ones) encoded as base64....",
+      "themes": {
+        "technology": true,
+        "relationships": true,
+        "work": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 1561,
+        "theme_diversity": 4,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.4,
+        "temporal_gap": 0.9024390243902439
+      },
+      "dense_vector": [
+        1.0,
+        0.4,
+        0.0,
+        0.4,
+        0.9024390243902439
+      ]
+    },
+    {
+      "entry_index": 75,
+      "date": "2025-05-26",
+      "title": "2025-05-26 Build",
+      "content_preview": "Monday, May 26, 2025 Build Oh my god dude. I really must get some of this in the journal! My whole life I wanted to be a programming and now I really can. More later. Gonna write a book about it maybe...",
+      "themes": {
+        "technology": true,
+        "reflection": true
+      },
+      "features": {
+        "word_count": 53,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.1,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.9146341463414634
+      },
+      "dense_vector": [
+        0.053,
+        0.2,
+        0.1,
+        0.0,
+        0.9146341463414634
+      ]
+    },
+    {
+      "entry_index": 76,
+      "date": "2025-05-29",
+      "title": "2025-05-29 Cone with me on a journey through\u2026",
+      "content_preview": "Thursday, May 29, 2025 Cone with me on a journey through\u2026. Get a sample Make a video about ai And then shut up cause ur high...",
+      "themes": {
+        "technology": true,
+        "creativity": true
+      },
+      "features": {
+        "word_count": 26,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.926829268292683
+      },
+      "dense_vector": [
+        0.026,
+        0.2,
+        0.0,
+        0.0,
+        0.926829268292683
+      ]
+    },
+    {
+      "entry_index": 77,
+      "date": "2025-06-02",
+      "title": "2025-06-02 Suzie",
+      "content_preview": "Monday, June 2, 2025 Suzie Baxter860...",
+      "themes": {},
+      "features": {
+        "word_count": 6,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.9390243902439024
+      },
+      "dense_vector": [
+        0.006,
+        0.0,
+        0.0,
+        0.0,
+        0.9390243902439024
+      ]
+    },
+    {
+      "entry_index": 78,
+      "date": "2025-06-02",
+      "title": "2025-06-02",
+      "content_preview": "Monday, June 2, 2025 ,fJ3LLc&gMVS.JD AWS contact@...",
+      "themes": {},
+      "features": {
+        "word_count": 7,
+        "theme_diversity": 0,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.9512195121951219
+      },
+      "dense_vector": [
+        0.007,
+        0.0,
+        0.0,
+        0.0,
+        0.9512195121951219
+      ]
+    },
+    {
+      "entry_index": 79,
+      "date": "2025-08-23",
+      "title": "2025-08-23",
+      "content_preview": "Saturday, August 23, 2025 Just an idea to just make a video of a like like a kid is in the kitchen grab something and says IGA steak sauce sauce, steak bomb and then roll in go to Han. Thanks mom than...",
+      "themes": {
+        "creativity": true
+      },
+      "features": {
+        "word_count": 60,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.9634146341463414
+      },
+      "dense_vector": [
+        0.06,
+        0.1,
+        0.0,
+        0.0,
+        0.9634146341463414
+      ]
+    },
+    {
+      "entry_index": 80,
+      "date": "2025-08-23",
+      "title": "2025-08-23 (1)",
+      "content_preview": "Saturday, August 23, 2025 To bring everything together if I give someone a laptop that I have remote access to they connected to their Wi-Fi network from their other computer they HTTP or other way in...",
+      "themes": {
+        "technology": true,
+        "work": true
+      },
+      "features": {
+        "word_count": 118,
+        "theme_diversity": 2,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.975609756097561
+      },
+      "dense_vector": [
+        0.118,
+        0.2,
+        0.0,
+        0.0,
+        0.975609756097561
+      ]
+    },
+    {
+      "entry_index": 81,
+      "date": "2025-08-24",
+      "title": "2025-08-24 Caitlin berfdat stuff",
+      "content_preview": "Sunday, August 24, 2025 Caitlin berfdat stuff https://a.co/d/iW5Qkbi...",
+      "themes": {
+        "technology": true
+      },
+      "features": {
+        "word_count": 8,
+        "theme_diversity": 1,
+        "personal_reflection_score": 0.0,
+        "emotional_intensity": 0.0,
+        "temporal_gap": 0.9878048780487805
+      },
+      "dense_vector": [
+        0.008,
+        0.1,
+        0.0,
+        0.0,
+        0.9878048780487805
+      ]
+    }
+  ],
+  "theme_summary": {
+    "technology": 34,
+    "reflection": 17,
+    "work": 16,
+    "creativity": 13,
+    "relationships": 6,
+    "food": 4,
+    "health": 4,
+    "learning": 4,
+    "travel": 1
+  }
+}

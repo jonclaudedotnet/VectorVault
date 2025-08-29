@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "analysis_date": "2025-08-29T01:51:04.935766",
+    "conversation_words": 13461,
+    "journal_entries": 82,
+    "date_range": "2024-01-22 to 2025-08-24"
+  },
+  "insights": {
+    "dominant_themes": [
+      "technology",
+      "reflection",
+      "work",
+      "creativity",
+      "relationships"
+    ],
+    "temporal_patterns": {
+      "2024-01": {
+        "entry_count": 1,
+        "word_count": 10,
+        "themes": {}
+      },
+      "2024-02": {
+        "entry_count": 1,
+        "word_count": 18,
+        "themes": {
+          "creativity": 1
+        }
+      },
+      "2024-07": {
+        "entry_count": 1,
+        "word_count": 12,
+        "themes": {
+          "food": 1
+        }
+      },
+      "2024-08": {
+        "entry_count": 7,
+        "word_count": 897,
+        "themes": {
+          "relationships": 2,
+          "health": 3,
+          "reflection": 4,
+          "travel": 1,
+          "food": 2,
+          "creativity": 2,
+          "technology": 2,
+          "work": 2,
+          "learning": 1
+        }
+      },
+      "2024-09": {
+        "entry_count": 17,
+        "word_count": 799,
+        "themes": {
+          "technology": 7,
+          "reflection": 4,
+          "work": 4,
+          "creativity": 2,
+          "learning": 1
+        }
+      },
+      "2024-10": {
+        "entry_count": 5,
+        "word_count": 53,
+        "themes": {
+          "technology": 1
+        }
+      },
+      "2024-11": {
+        "entry_count": 7,
+        "word_count": 203,
+        "themes": {
+          "technology": 2,
+          "reflection": 1
+        }
+      },
+      "2024-12": {
+        "entry_count": 3,
+        "word_count": 275,
+        "themes": {
+          "technology": 3,
+          "reflection": 1,
+          "health": 1
+        }
+      },
+      "2025-01": {
+        "entry_count": 4,
+        "word_count": 79,
+        "themes": {
+          "technology": 1,
+          "work": 1
+        }
+      },
+      "2025-02": {
+        "entry_count": 10,
+        "word_count": 377,
+        "themes": {
+          "technology": 5,
+          "work": 3,
+          "reflection": 2,
+          "creativity": 3,
+          "relationships": 1
+        }
+      },
+      "2025-03": {
+        "entry_count": 1,
+        "word_count": 11,
+        "themes": {}
+      },
+      "2025-04": {
+        "entry_count": 13,
+        "word_count": 713,
+        "themes": {
+          "learning": 2,
+          "technology": 7,
+          "work": 3,
+          "reflection": 3,
+          "creativity": 1,
+          "food": 1,
+          "relationships": 1
+        }
+      },
+      "2025-05": {
+        "entry_count": 7,
+        "word_count": 3061,
+        "themes": {
+          "reflection": 2,
+          "technology": 4,
+          "relationships": 2,
+          "work": 2,
+          "creativity": 3
+        }
+      },
+      "2025-06": {
+        "entry_count": 2,
+        "word_count": 13,
+        "themes": {}
+      },
+      "2025-08": {
+        "entry_count": 3,
+        "word_count": 186,
+        "themes": {
+          "creativity": 1,
+          "technology": 2,
+          "work": 1
+        }
+      }
+    },
+    "conversation_journal_correlation": [
+      {
+        "theme": "technology",
+        "conversation_strength": 119,
+        "journal_entries": 34,
+        "correlation_score": 6.054347590085577
+      },
+      {
+        "theme": "reflection",
+        "conversation_strength": 74,
+        "journal_entries": 17,
+        "correlation_score": 3.3759400999284397
+      },
+      {
+        "theme": "work",
+        "conversation_strength": 49,
+        "journal_entries": 16,
+        "correlation_score": 2.6650934567694953
+      },
+      {
+        "theme": "food",
+        "conversation_strength": 38,
+        "journal_entries": 4,
+        "correlation_score": 1.1734813874379193
+      },
+      {
+        "theme": "creativity",
+        "conversation_strength": 10,
+        "journal_entries": 13,
+        "correlation_score": 1.0852407375003892
+      },
+      {
+        "theme": "learning",
+        "conversation_strength": 24,
+        "journal_entries": 4,
+        "correlation_score": 0.9325884408450631
+      },
+      {
+        "theme": "relationships",
+        "conversation_strength": 14,
+        "journal_entries": 6,
+        "correlation_score": 0.8723566071269808
+      },
+      {
+        "theme": "health",
+        "conversation_strength": 3,
+        "journal_entries": 4,
+        "correlation_score": 0.32971980528886674
+      }
+    ],
+    "narrative_evolution": {
+      "creativity": {
+        "2024-02": 1,
+        "2024-08": 2,
+        "2024-09": 2,
+        "2025-02": 3,
+        "2025-04": 1,
+        "2025-05": 3,
+        "2025-08": 1
+      },
+      "food": {
+        "2024-07": 1,
+        "2024-08": 2,
+        "2025-04": 1
+      },
+      "relationships": {
+        "2024-08": 2,
+        "2025-02": 1,
+        "2025-04": 1,
+        "2025-05": 2
+      },
+      "health": {
+        "2024-08": 3,
+        "2024-12": 1
+      },
+      "reflection": {
+        "2024-08": 4,
+        "2024-09": 4,
+        "2024-11": 1,
+        "2024-12": 1,
+        "2025-02": 2,
+        "2025-04": 3,
+        "2025-05": 2
+      },
+      "travel": {
+        "2024-08": 1
+      },
+      "technology": {
+        "2024-08": 2,
+        "2024-09": 7,
+        "2024-10": 1,
+        "2024-11": 2,
+        "2024-12": 3,
+        "2025-01": 1,
+        "2025-02": 5,
+        "2025-04": 7,
+        "2025-05": 4,
+        "2025-08": 2
+      },
+      "work": {
+        "2024-08": 2,
+        "2024-09": 4,
+        "2025-01": 1,
+        "2025-02": 3,
+        "2025-04": 3,
+        "2025-05": 2,
+        "2025-08": 1
+      },
+      "learning": {
+        "2024-08": 1,
+        "2024-09": 1,
+        "2025-04": 2
+      }
+    },
+    "personal_reflection_score": 0.2073170731707317
+  },
+  "raw_correlations": []
+}

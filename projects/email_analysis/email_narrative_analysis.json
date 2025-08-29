@@ -1,0 +1,15 @@
+{
+  "processing_date": "2025-08-29T02:20:25.272525",
+  "total_emails_processed": 1000,
+  "total_files_found": 10988,
+  "high_importance_emails": 0,
+  "important_threads": 0,
+  "temporal_patterns": {},
+  "top_important_threads": [],
+  "narrative_summary": {
+    "email_span": "Unknown",
+    "most_active_years": [],
+    "dominant_themes": {},
+    "narrative_value_assessment": "High - substantial personal correspondence history"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "total_inbox_emails": 6227,
+  "emails_analyzed": 500,
+  "personal_emails_found": 87,
+  "personal_percentage": 17.4,
+  "top_senders": {
+    "Cortana": 8,
+    "thanks bets": 7,
+    "\"UPS My Choice\"": 7,
+    "Jim Wyne": 4,
+    "Cary Hull": 4,
+    "Pamela Ryder": 4,
+    "=?utf-8?Q?Together=20We=20Rise=20CT?=": 3,
+    "Honeycone Cream Co": 3,
+    "\"Nextdoor Turkey Hill\"": 2,
+    "Costco Wholesale": 2
+  },
+  "years_active": {
+    "2020": 66,
+    "2021": 21
+  },
+  "sample_personal_emails": [
+    {
+      "file": "101",
+      "subject": "Looking for someone to build...",
+      "from": "\"Nextdoor Turkey Hill\" <reply@rs.email.nextdoor.com>",
+      "date": "Fri, 11 Dec 2020 10:41:16 +0000 (UTC)",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "102",
+      "subject": "Questions",
+      "from": "Jim Wyne <jimmwyne@gmail.com>",
+      "date": "Fri, 11 Dec 2020 08:19:43 -0500",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "103",
+      "subject": "Your daily briefing",
+      "from": "Cortana <cortana@microsoft.com>",
+      "date": "Fri, 11 Dec 2020 13:24:50 +0000",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "114",
+      "subject": "Rita",
+      "from": "thanks bets <clementin@aol.com>",
+      "date": "Fri, 11 Dec 2020 20:01:06 +0000 (UTC)",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "124",
+      "subject": "RIta",
+      "from": "thanks bets <clementin@aol.com>",
+      "date": "Sat, 12 Dec 2020 16:19:22 +0000 (UTC)",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "134",
+      "subject": "Re: RIta",
+      "from": "thanks bets <clementin@aol.com>",
+      "date": "Sun, 13 Dec 2020 10:51:45 +0000 (UTC)",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "135",
+      "subject": "Connection to bedfordconstruction.synology.me has been lost since",
+      "from": "Synology Account <noreply@synologynotification.com>",
+      "date": "Sun, 13 Dec 2020 12:45:07 +0000",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "140",
+      "subject": "women pictures Group 2",
+      "from": "Cary Hull <caryshull@gmail.com>",
+      "date": "Sun, 13 Dec 2020 18:17:28 -0500",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "145",
+      "subject": "=?utf-8?Q?3=C2=A0=20Actions=20for=20Busy=20Activists?=",
+      "from": "=?utf-8?Q?Together=20We=20Rise=20CT?= <togetherwerisect@gmail.com>",
+      "date": "Mon, 14 Dec 2020 11:29:34 +0000",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    },
+    {
+      "file": "149",
+      "subject": "Your daily briefing",
+      "from": "Cortana <cortana@microsoft.com>",
+      "date": "Mon, 14 Dec 2020 12:44:24 +0000",
+      "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-T",
+      "is_personal": true
+    }
+  ],
+  "narrative_assessment": "High potential"
+}

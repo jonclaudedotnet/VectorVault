@@ -1,0 +1,520 @@
+{
+  "moments": [
+    {
+      "word": "Hello.",
+      "category": "hell",
+      "start_time": 43.92,
+      "end_time": 47.5,
+      "exact_time": 45.42,
+      "context": "I'm recording. Hello. Hi. Can you hear",
+      "index": 2
+    },
+    {
+      "word": "Jesus.",
+      "category": "jesus",
+      "start_time": 57.56,
+      "end_time": 60.82,
+      "exact_time": 59.06,
+      "context": "I checked. But who knows? Jesus. No, no. No, my",
+      "index": 30
+    },
+    {
+      "word": "crazy",
+      "category": "crazy",
+      "start_time": 221.7,
+      "end_time": 225.2,
+      "exact_time": 223.2,
+      "context": "Yeah. Like my vision is crazy bad. And I'm having",
+      "index": 384
+    },
+    {
+      "word": "dumb",
+      "category": "dumb",
+      "start_time": 309.36,
+      "end_time": 312.62,
+      "exact_time": 310.86,
+      "context": "I'm just watching all the dumb little ideas I have",
+      "index": 566
+    },
+    {
+      "word": "God,",
+      "category": "god",
+      "start_time": 615.94,
+      "end_time": 619.06,
+      "exact_time": 617.44,
+      "context": "Yeah, actually, because. Oh my God, meeting tools. There's like",
+      "index": 1173
+    },
+    {
+      "word": "shit,",
+      "category": "shit",
+      "start_time": 619.7,
+      "end_time": 622.8,
+      "exact_time": 621.2,
+      "context": "ton of stuff here. Oh shit, you don't hear me.",
+      "index": 1184
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 895.96,
+      "end_time": 899.22,
+      "exact_time": 897.46,
+      "context": "about. I don't know. Thinking shit. Yeah. It's a beautiful",
+      "index": 1807
+    },
+    {
+      "word": "crazy.",
+      "category": "crazy",
+      "start_time": 975.14,
+      "end_time": 978.66,
+      "exact_time": 976.64,
+      "context": "found it. It's kind of crazy. What is this? Oh,",
+      "index": 2007
+    },
+    {
+      "word": "crazy.",
+      "category": "crazy",
+      "start_time": 1295.58,
+      "end_time": 1299.04,
+      "exact_time": 1297.08,
+      "context": "going. OK. It's kind of crazy. OK. OK. Like you",
+      "index": 2643
+    },
+    {
+      "word": "crazy",
+      "category": "crazy",
+      "start_time": 1681.18,
+      "end_time": 1684.46,
+      "exact_time": 1682.68,
+      "context": "had like a kind of crazy history in her life.",
+      "index": 3465
+    },
+    {
+      "word": "stupid.",
+      "category": "stupid",
+      "start_time": 1687.1,
+      "end_time": 1690.48,
+      "exact_time": 1688.6,
+      "context": "it better. So he's just stupid. Like I'm sorry, but",
+      "index": 3484
+    },
+    {
+      "word": "stupid.",
+      "category": "stupid",
+      "start_time": 1689.38,
+      "end_time": 1692.7,
+      "exact_time": 1690.88,
+      "context": "Like I'm sorry, but he's stupid. He doesn't know. He's",
+      "index": 3490
+    },
+    {
+      "word": "stupid.",
+      "category": "stupid",
+      "start_time": 1697.42,
+      "end_time": 1700.74,
+      "exact_time": 1698.92,
+      "context": "get there slowly. We're all stupid. So he also has",
+      "index": 3515
+    },
+    {
+      "word": "crazy",
+      "category": "crazy",
+      "start_time": 1780.78,
+      "end_time": 1784.56,
+      "exact_time": 1782.28,
+      "context": "Yeah. I'm sure this gets crazy with more. Yeah. Hey,",
+      "index": 3713
+    },
+    {
+      "word": "God,",
+      "category": "god",
+      "start_time": 1975.08,
+      "end_time": 1978.36,
+      "exact_time": 1976.58,
+      "context": "And she's like, oh my God, you look so great.",
+      "index": 4226
+    },
+    {
+      "word": "shit",
+      "category": "shit",
+      "start_time": 2011.06,
+      "end_time": 2014.26,
+      "exact_time": 2012.56,
+      "context": "So look what kind of shit Shavans says after I",
+      "index": 4327
+    },
+    {
+      "word": "crazy.",
+      "category": "crazy",
+      "start_time": 2405.88,
+      "end_time": 2409.56,
+      "exact_time": 2407.38,
+      "context": "retaliate, it's going to be crazy. It's not going to",
+      "index": 5103
+    },
+    {
+      "word": "God.",
+      "category": "god",
+      "start_time": 2422.34,
+      "end_time": 2425.8,
+      "exact_time": 2423.84,
+      "context": "you can see it. Oh God. Check out my brain.",
+      "index": 5137
+    },
+    {
+      "word": "Jesus.",
+      "category": "jesus",
+      "start_time": 2443.7,
+      "end_time": 2447.2,
+      "exact_time": 2445.2,
+      "context": "way too long. Yeah. Oh, Jesus. Too many wires. What",
+      "index": 5164
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 2607.34,
+      "end_time": 2610.62,
+      "exact_time": 2608.84,
+      "context": "that people just give you shit. I agree to be",
+      "index": 5464
+    },
+    {
+      "word": "crazy.",
+      "category": "crazy",
+      "start_time": 2726.88,
+      "end_time": 2730.04,
+      "exact_time": 2728.38,
+      "context": "those wedding dances driving the crazy. Oh, yeah, I can't",
+      "index": 5708
+    },
+    {
+      "word": "crazy.",
+      "category": "crazy",
+      "start_time": 2816.3,
+      "end_time": 2819.76,
+      "exact_time": 2817.8,
+      "context": "this room. This is starting crazy. I don't know if",
+      "index": 5888
+    },
+    {
+      "word": "god,",
+      "category": "god",
+      "start_time": 3278.25,
+      "end_time": 3281.41,
+      "exact_time": 3279.75,
+      "context": "it. Um, the. Oh my god, what's the word. The",
+      "index": 7017
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 3420.97,
+      "end_time": 3424.47,
+      "exact_time": 3422.47,
+      "context": "one happens to be 28 fucking percent. And it's it",
+      "index": 7334
+    },
+    {
+      "word": "goddamn",
+      "category": "damn",
+      "start_time": 3779.09,
+      "end_time": 3782.83,
+      "exact_time": 3780.59,
+      "context": "he's been through it. And goddamn it. There's just a",
+      "index": 8114
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 3783.01,
+      "end_time": 3786.43,
+      "exact_time": 3784.51,
+      "context": "just a taste exactly like fucking OG push when you",
+      "index": 8122
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 3877.27,
+      "end_time": 3881.37,
+      "exact_time": 3878.77,
+      "context": "I was like, Oh, this shit. Huh. Yeah. Be careful.",
+      "index": 8332
+    },
+    {
+      "word": "God,",
+      "category": "god",
+      "start_time": 3887.85,
+      "end_time": 3891.05,
+      "exact_time": 3889.35,
+      "context": "if you remember, oh my God, what was the name",
+      "index": 8347
+    },
+    {
+      "word": "hell's",
+      "category": "hell",
+      "start_time": 3894.91,
+      "end_time": 3898.09,
+      "exact_time": 3896.41,
+      "context": "the upper side with the hell's the name of that",
+      "index": 8369
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 3924.43,
+      "end_time": 3927.75,
+      "exact_time": 3925.93,
+      "context": "to any of it. It's fucking crazy, Maya. What was",
+      "index": 8447
+    },
+    {
+      "word": "crazy,",
+      "category": "crazy",
+      "start_time": 3924.75,
+      "end_time": 3928.55,
+      "exact_time": 3926.25,
+      "context": "any of it. It's fucking crazy, Maya. What was self",
+      "index": 8448
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 3941.85,
+      "end_time": 3945.17,
+      "exact_time": 3943.35,
+      "context": "want to hear you the fucking story of how you",
+      "index": 8488
+    },
+    {
+      "word": "shit,",
+      "category": "shit",
+      "start_time": 3943.73,
+      "end_time": 3946.91,
+      "exact_time": 3945.23,
+      "context": "of how you take a shit, pal. No, and I",
+      "index": 8495
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 3969.33,
+      "end_time": 3973.01,
+      "exact_time": 3970.83,
+      "context": "treats California silver people like fucking garbage. Yeah, where excuse",
+      "index": 8568
+    },
+    {
+      "word": "God,",
+      "category": "god",
+      "start_time": 4020.65,
+      "end_time": 4023.91,
+      "exact_time": 4022.15,
+      "context": "Like I never, and the God, the God stuff doesn't",
+      "index": 8720
+    },
+    {
+      "word": "God",
+      "category": "god",
+      "start_time": 4021.53,
+      "end_time": 4024.81,
+      "exact_time": 4023.03,
+      "context": "never, and the God, the God stuff doesn't work for",
+      "index": 8722
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 4024.81,
+      "end_time": 4028.05,
+      "exact_time": 4026.31,
+      "context": "don't believe anything of that shit. No, but it also",
+      "index": 8734
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 4148.19,
+      "end_time": 4151.55,
+      "exact_time": 4149.69,
+      "context": "to manage, uh, that's holy shit. I didn't even think",
+      "index": 8995
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4153.05,
+      "end_time": 4156.47,
+      "exact_time": 4154.55,
+      "context": "I mean, it was a fucking shit show for sure,",
+      "index": 9011
+    },
+    {
+      "word": "shit",
+      "category": "shit",
+      "start_time": 4153.47,
+      "end_time": 4156.79,
+      "exact_time": 4154.97,
+      "context": "mean, it was a fucking shit show for sure, but,",
+      "index": 9012
+    },
+    {
+      "word": "god,",
+      "category": "god",
+      "start_time": 4169.87,
+      "end_time": 4173.31,
+      "exact_time": 4171.37,
+      "context": "figure out like, oh my god, it's 5 AM, there's",
+      "index": 9051
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4172.01,
+      "end_time": 4175.45,
+      "exact_time": 4173.51,
+      "context": "it's 5 AM, there's no fucking way I could get",
+      "index": 9057
+    },
+    {
+      "word": "shit",
+      "category": "shit",
+      "start_time": 4177.67,
+      "end_time": 4180.77,
+      "exact_time": 4179.17,
+      "context": "could stop shaking, you know, shit like that. Yeah. Yeah.",
+      "index": 9079
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4306.25,
+      "end_time": 4309.57,
+      "exact_time": 4307.75,
+      "context": "got an alcoholic that is fucking crashing and shaking, somehow",
+      "index": 9360
+    },
+    {
+      "word": "shit",
+      "category": "shit",
+      "start_time": 4353.83,
+      "end_time": 4357.09,
+      "exact_time": 4355.33,
+      "context": "alive, no doubt. So that shit that I was doing,",
+      "index": 9450
+    },
+    {
+      "word": "Fucking",
+      "category": "fuck",
+      "start_time": 4362.61,
+      "end_time": 4366.29,
+      "exact_time": 4364.11,
+      "context": "just doing my ancestors did. Fucking truck and Irishman. Oh",
+      "index": 9466
+    },
+    {
+      "word": "shit.",
+      "category": "shit",
+      "start_time": 4367.67,
+      "end_time": 4371.07,
+      "exact_time": 4369.17,
+      "context": "Fucking truck and Irishman. Oh shit. I never told you.",
+      "index": 9471
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4646.35,
+      "end_time": 4650.19,
+      "exact_time": 4647.85,
+      "context": "trained. Right. And it's pure fucking gold for me. Yeah.",
+      "index": 9915
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4764.25,
+      "end_time": 4767.65,
+      "exact_time": 4765.75,
+      "context": "front of me because I'll fucking fuck you up. I",
+      "index": 10144
+    },
+    {
+      "word": "fuck",
+      "category": "fuck",
+      "start_time": 4764.65,
+      "end_time": 4768.17,
+      "exact_time": 4766.15,
+      "context": "of me because I'll fucking fuck you up. I really",
+      "index": 10145
+    },
+    {
+      "word": "Fuck.",
+      "category": "fuck",
+      "start_time": 4906.09,
+      "end_time": 4909.31,
+      "exact_time": 4907.59,
+      "context": "Python? I can read Python? Fuck. Okay. So I'm reading",
+      "index": 10405
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 4923.75,
+      "end_time": 4927.21,
+      "exact_time": 4925.25,
+      "context": "like, Python runs on any fucking Unix box. I have",
+      "index": 10441
+    },
+    {
+      "word": "stupid,",
+      "category": "stupid",
+      "start_time": 5354.49,
+      "end_time": 5357.99,
+      "exact_time": 5355.99,
+      "context": "or seven or something, something stupid, something cheap. Yes. But",
+      "index": 11526
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 5457.39,
+      "end_time": 5460.65,
+      "exact_time": 5458.89,
+      "context": "small teams that just run, fucking miles of it. Oh,",
+      "index": 11800
+    },
+    {
+      "word": "shit",
+      "category": "shit",
+      "start_time": 5624.65,
+      "end_time": 5628.15,
+      "exact_time": 5626.15,
+      "context": "Um, because apples cloud moves shit pretty quickly. When you",
+      "index": 12232
+    },
+    {
+      "word": "fucking",
+      "category": "fuck",
+      "start_time": 5631.09,
+      "end_time": 5634.43,
+      "exact_time": 5632.59,
+      "context": "download from them, it's, it's fucking quick. Yeah. And that's,",
+      "index": 12245
+    }
+  ],
+  "categories": {
+    "hell": 2,
+    "jesus": 2,
+    "crazy": 9,
+    "dumb": 1,
+    "god": 8,
+    "shit": 13,
+    "stupid": 4,
+    "fuck": 16,
+    "damn": 1
+  },
+  "total": 56
+}

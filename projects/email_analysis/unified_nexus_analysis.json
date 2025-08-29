@@ -1,0 +1,77 @@
+{
+  "analysis_date": "2025-08-29T02:29:37.006384",
+  "data_sources": {
+    "conversation_words": 13461,
+    "journal_entries": 82,
+    "email_vectors": 25
+  },
+  "cross_modal_themes": {
+    "technology": {
+      "conversation": 124,
+      "journal": 34,
+      "email": 10
+    },
+    "relationships": {
+      "conversation": 14,
+      "journal": 6,
+      "email": 5
+    },
+    "work": {
+      "conversation": 49,
+      "journal": 16,
+      "email": 5
+    }
+  },
+  "email_classification_breakdown": {
+    "personal": 5,
+    "services": 5,
+    "automated": 5,
+    "business": 5,
+    "subscriptions": 5
+  },
+  "temporal_patterns": {
+    "journal_years": {
+      "2024": 42,
+      "2025": 40
+    },
+    "email_years": {
+      "2021": 11,
+      "2020": 14
+    },
+    "conversation_year": "2024"
+  },
+  "narrative_peaks": [
+    {
+      "year": "2024",
+      "journal_entries": 42,
+      "email_activity": 0,
+      "total_activity": 42
+    },
+    {
+      "year": "2025",
+      "journal_entries": 40,
+      "email_activity": 0,
+      "total_activity": 40
+    },
+    {
+      "year": "2020",
+      "journal_entries": 0,
+      "email_activity": 14,
+      "total_activity": 14
+    },
+    {
+      "year": "2021",
+      "journal_entries": 0,
+      "email_activity": 11,
+      "total_activity": 11
+    }
+  ],
+  "narrative_coherence_score": 0.8716794576943899,
+  "unified_assessment": {
+    "dominant_life_theme": "technology",
+    "temporal_span": "2020 to 2025",
+    "narrative_coherence": "High - consistent themes across all data sources",
+    "data_richness": "High",
+    "cross_modal_correlation_strength": 0.8716794576943899
+  }
+}

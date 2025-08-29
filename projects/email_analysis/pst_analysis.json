@@ -1,0 +1,64 @@
+{
+  "analysis_date": "2025-08-29T02:10:23.072828",
+  "total_files": 2,
+  "total_size_mb": 2735.06,
+  "extraction_status": "Pending - readpst installation required",
+  "files": [
+    {
+      "file_path": "/media/nvme-drive1/Users/conta/Documents/Outlook Files/Outlook Data File - archive.pst",
+      "file_size_mb": 2122.79,
+      "analysis_method": "Header inspection",
+      "recommendations": [
+        "Use readpst or libpst for full extraction"
+      ],
+      "format": "PST (Personal Storage Table)",
+      "estimated_emails": "10,000+",
+      "narrative_value": "High - extensive email archive with likely story content",
+      "processing_priority": 1
+    },
+    {
+      "file_path": "/media/nvme-drive1/Users/conta/Desktop/backup2005.pst",
+      "file_size_mb": 612.27,
+      "analysis_method": "Header inspection",
+      "recommendations": [
+        "Use readpst or libpst for full extraction"
+      ],
+      "format": "PST (Personal Storage Table)",
+      "estimated_emails": "10,000+",
+      "narrative_value": "High - extensive email archive with likely story content",
+      "processing_priority": 1
+    }
+  ],
+  "extraction_commands": [
+    {
+      "tool": "readpst",
+      "install": "sudo apt-get install readpst",
+      "command": "readpst -M -o ./raw/Outlook Data File - archive/ \"/media/nvme-drive1/Users/conta/Documents/Outlook Files/Outlook Data File - archive.pst\"",
+      "description": "Extract to mbox format for email parsing"
+    },
+    {
+      "tool": "python-libpst",
+      "install": "pip3 install python-libpst",
+      "command": "python3 -c \"import pypff; process_pst('/media/nvme-drive1/Users/conta/Documents/Outlook Files/Outlook Data File - archive.pst')\"",
+      "description": "Pure Python PST processing"
+    },
+    {
+      "tool": "readpst",
+      "install": "sudo apt-get install readpst",
+      "command": "readpst -M -o ./raw/backup2005/ \"/media/nvme-drive1/Users/conta/Desktop/backup2005.pst\"",
+      "description": "Extract to mbox format for email parsing"
+    },
+    {
+      "tool": "python-libpst",
+      "install": "pip3 install python-libpst",
+      "command": "python3 -c \"import pypff; process_pst('/media/nvme-drive1/Users/conta/Desktop/backup2005.pst')\"",
+      "description": "Pure Python PST processing"
+    }
+  ],
+  "next_steps": [
+    "Install readpst: sudo apt-get install readpst",
+    "Extract PST files to mbox format",
+    "Run importance scoring and thread analysis",
+    "Integrate with VectorVault nexus for cross-modal correlation"
+  ]
+}

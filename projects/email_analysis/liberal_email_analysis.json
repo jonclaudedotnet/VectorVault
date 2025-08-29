@@ -1,0 +1,330 @@
+{
+  "total_emails_analyzed": 1000,
+  "total_inbox_emails": 6227,
+  "category_breakdown": {
+    "personal": 249,
+    "services": 99,
+    "automated": 325,
+    "unknown": 201,
+    "business": 59,
+    "subscriptions": 67
+  },
+  "year_statistics": {
+    "2021": {
+      "personal": 112,
+      "automated": 149,
+      "unknown": 95,
+      "business": 35,
+      "services": 49,
+      "subscriptions": 27
+    },
+    "2020": {
+      "services": 41,
+      "personal": 123,
+      "unknown": 66,
+      "automated": 142,
+      "business": 19,
+      "subscriptions": 34
+    },
+    "2024": {
+      "automated": 27,
+      "unknown": 38,
+      "personal": 13,
+      "services": 9,
+      "subscriptions": 5,
+      "business": 2
+    },
+    "2025": {
+      "unknown": 2,
+      "business": 3,
+      "automated": 7,
+      "personal": 1,
+      "subscriptions": 1
+    }
+  },
+  "potentially_personal": 308,
+  "samples_by_category": {
+    "personal": [
+      {
+        "file": "724",
+        "subject": "Re: Teamviewer",
+        "from": "Kathleen Burnett <kburnett1212@gmail.com>",
+        "date": "Fri, 22 Jan 2021 12:50:07 -0500",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nReally needing help, please\n\n\n\n\tOn Jan 20, 2021, at 10:35 P",
+        "classification": "personal",
+        "year": "2021"
+      },
+      {
+        "file": "89",
+        "subject": "RE: Invoice and my thanks",
+        "from": "Pamela Ryder <manager@waterstonecenter.com>",
+        "date": "Thu, 10 Dec 2020 21:34:03 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nThanks, I will send it out over two payments. We are recoup",
+        "classification": "personal",
+        "year": "2020"
+      },
+      {
+        "file": "667",
+        "subject": "Re: Main computer is Wonky",
+        "from": "Kathleen Burnett <kburnett1212@gmail.com>",
+        "date": "Mon, 18 Jan 2021 09:50:00 -0500",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\nYes please!  We are almost always home...dang the pandemic.  Sched",
+        "classification": "personal",
+        "year": "2021"
+      },
+      {
+        "file": "287",
+        "subject": "Snow Plow/Blowing",
+        "from": "\"Nextdoor Turkey Hill\" <reply@rs.email.nextdoor.com>",
+        "date": "Sat, 19 Dec 2020 00:45:13 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://flask.us.nextdoor.com/t_i/spacer.gif?ot=Jy2_0mTf7",
+        "classification": "personal",
+        "year": "2020"
+      },
+      {
+        "file": "476",
+        "subject": "AT&T payment update",
+        "from": "AT&T Account Management <update@emaildl.att-mail.com>",
+        "date": "Tue, 5 Jan 2021 05:49:31 -0800",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n \t\n\t\n <https://clicks.att.com/OCT/eTrac?EMAIL_ID=2065142363",
+        "classification": "personal",
+        "year": "2021"
+      }
+    ],
+    "services": [
+      {
+        "file": "323",
+        "subject": "Important information from CT DOL regarding your UI claim",
+        "from": "ReEmployCT Notification <DOL.ReEmployCT@ct.gov>",
+        "date": "Tue, 22 Dec 2020 00:58:41 -0500",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://filectpua.dol.ct.gov:443/accessct/images/rebrandi",
+        "classification": "services",
+        "year": "2020"
+      },
+      {
+        "file": "54",
+        "subject": "Just In Time For the Holidays: Premium Membership Savings",
+        "from": "UPS My Choice <ups@upsemail.com>",
+        "date": "Mon, 7 Dec 2020 02:08:10 +0000 (GMT)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <http://open.mkt41.net/open/log/69296948/NDkxNjQ0NTk3OTQ2S",
+        "classification": "services",
+        "year": "2020"
+      },
+      {
+        "file": "91",
+        "subject": "FW: Your Google Account was recovered successfully",
+        "from": "Pamela Ryder <manager@waterstonecenter.com>",
+        "date": "Thu, 10 Dec 2020 21:58:50 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nWhy was my account compromised to be recovered in first pla",
+        "classification": "services",
+        "year": "2020"
+      },
+      {
+        "file": "228",
+        "subject": "Included with your Amazon order: Free 90 days of music",
+        "from": "\"Amazon.com\" <store-news@amazon.com>",
+        "date": "Wed, 16 Dec 2020 13:18:25 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://www.amazon.com/gp/r.html?C=1N2DTU1B9PL41&K=DTTVMB",
+        "classification": "services",
+        "year": "2020"
+      },
+      {
+        "file": "447",
+        "subject": "Daily Digest: New Open-Box Apple iPads and MacBooks and more!",
+        "from": "\"Woot.com\" <store-news@woot.com>",
+        "date": "Fri, 1 Jan 2021 07:30:49 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nFeatured Deals: Men's Dress Shoes | KitchenAid 16-Pc. Stain",
+        "classification": "services",
+        "year": "2021"
+      }
+    ],
+    "automated": [
+      {
+        "file": "749",
+        "subject": "VIVO Office Favorites, New Giveaway, Clearance, Open Box and MORE!",
+        "from": "\"Woot.com\" <store-news@woot.com>",
+        "date": "Sat, 23 Jan 2021 16:03:19 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nFeatured Deal - VIVO Office Favorites | Today Only! \n <http",
+        "classification": "automated",
+        "year": "2021"
+      },
+      {
+        "file": "772",
+        "subject": "MyAnalytics | Network Edition",
+        "from": "MyAnalytics <no-reply@microsoft.com>",
+        "date": "Mon, 25 Jan 2021 22:54:09 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://myanalytics.microsoft.com/?v=home&s=WeeklyDigest_",
+        "classification": "automated",
+        "year": "2021"
+      },
+      {
+        "file": "877",
+        "subject": "Jon Claude, add Juliana Pisanzio to your network",
+        "from": "LinkedIn <messages-noreply@linkedin.com>",
+        "date": "Wed, 27 Jan 2021 09:04:44 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nAdd connections to discover new opportunities \n <https://ww",
+        "classification": "automated",
+        "year": "2021"
+      },
+      {
+        "file": "64",
+        "subject": "Just a pre-Winter Wednesday with Woot's wonderful wargains! Whoops,",
+        "from": "\"Woot.com\" <store-news@woot.com>",
+        "date": "Wed, 9 Dec 2020 18:10:29 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nDEALS from Computers | Tools | Shirt | Sports | Electronics",
+        "classification": "automated",
+        "year": "2020"
+      },
+      {
+        "file": "175",
+        "subject": "Top post: Looking for someone to plow our driveway",
+        "from": "\"Nextdoor Digest\" <no-reply@rs.email.nextdoor.com>",
+        "date": "Mon, 14 Dec 2020 22:51:31 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\n <https://flask.us.nextdoor.com/t_i/spacer.gif?ot=iv2k6nrVBgbN5D7p",
+        "classification": "automated",
+        "year": "2020"
+      }
+    ],
+    "unknown": [
+      {
+        "file": "769",
+        "subject": "=?utf-8?Q?Bernie=20memes=2C=20C64=2C=20and=20don=27t=20miss=20our=20survey=21?=",
+        "from": "=?utf-8?Q?TWiT?= <insidetwit@twit.tv>",
+        "date": "Mon, 25 Jan 2021 19:29:50 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nPLUS: TNW records early this week, Team TWiT's sunny outloo",
+        "classification": "unknown",
+        "year": "2021"
+      },
+      {
+        "file": "561",
+        "subject": "=?utf-8?Q?Samsung=20event=20live=20coverage=20this=20week=3B=20Take=20TWiT=27s=20survey?=",
+        "from": "=?utf-8?Q?TWiT?= <insidetwit@twit.tv>",
+        "date": "Mon, 11 Jan 2021 19:59:54 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nPLUS: Top 10 iOS productivity apps according to Rosemary Or",
+        "classification": "unknown",
+        "year": "2021"
+      },
+      {
+        "file": "358",
+        "subject": "Is your teen looking for more than a virtual education?",
+        "from": "Jewish Ledger <online@jewishledger.com>",
+        "date": "Thu, 24 Dec 2020 14:09:17 -0500 (EST)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\n <http://r20.rs6.net/on.jsp?ca=97f6eaa6-a7cd-4615-8c89-aeab99b71a2",
+        "classification": "unknown",
+        "year": "2020"
+      },
+      {
+        "file": "687",
+        "subject": "777 Heaven",
+        "from": "\"Bovada\" <service@mail1.bovada.lv>",
+        "date": "Tue, 19 Jan 2021 14:38:57 -0500",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <http://mail1.bovada.lv/t/cbgbaWD4L~QOSMgBB3-eBMKLqa0yE4DW",
+        "classification": "unknown",
+        "year": "2021"
+      },
+      {
+        "file": "444",
+        "subject": "Ring in the New Year with Our New Year's Day Promotions + Hot Buys",
+        "from": "Costco Wholesale <Costco@online.costco.com>",
+        "date": "Fri, 01 Jan 2021 07:08:52 -0800",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"UTF-8\"\n\n32 Degrees Face Cover - Buy One Get One Free - Valid through 1/1/2",
+        "classification": "unknown",
+        "year": "2021"
+      }
+    ],
+    "business": [
+      {
+        "file": "701",
+        "subject": "Test",
+        "from": "Eric Foster <efoster@lindhfoster.com>",
+        "date": "Wed, 20 Jan 2021 15:42:24 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n \n\n \n\nEric L. Foster, Esq.*            \n\nEric Lindh Foster ",
+        "classification": "business",
+        "year": "2021"
+      },
+      {
+        "file": "891",
+        "subject": "Keep your network up to speed with Aruba solutions",
+        "from": "\"CDW\" <subscriptions@cdwemail.com>",
+        "date": "Tue, 02 Feb 2021 06:45:11 -0600",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <http://click.cdwemail.com/open.aspx?ffcb10-fe5a1574726103",
+        "classification": "business",
+        "year": "2021"
+      },
+      {
+        "file": "353",
+        "subject": "Message Center Major Change Update Notification",
+        "from": "Microsoft 365 Message Center <o365mc@microsoft.com>",
+        "date": "Thu, 24 Dec 2020 03:49:39 -0800",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\n\t <http://image.email2.office.com/lib/fe81137272620d7a7d/m/1/logo_",
+        "classification": "business",
+        "year": "2020"
+      },
+      {
+        "file": "557",
+        "subject": "The anniversary of Aaron's passing",
+        "from": "\"David Segal, DemandProgress.org\" <info@demandprogress.org>",
+        "date": "Tue, 12 Jan 2021 00:35:25 +0000",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://s3.amazonaws.com/demandprogress/images/demandprog",
+        "classification": "business",
+        "year": "2021"
+      },
+      {
+        "file": "518",
+        "subject": "Message Center Major Change Update Notification",
+        "from": "Microsoft 365 Message Center <o365mc@microsoft.com>",
+        "date": "Thu, 14 Jan 2021 05:11:58 -0800",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\n\t <http://image.email2.office.com/lib/fe81137272620d7a7d/m/1/logo_",
+        "classification": "business",
+        "year": "2021"
+      }
+    ],
+    "subscriptions": [
+      {
+        "file": "226",
+        "subject": "Create members-only content with Member Areas",
+        "from": "Squarespace Circle <circle@squarespace.com>",
+        "date": "Wed, 16 Dec 2020 10:05:24 -0500 (EST)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nPlus updates to the Squarespace app | \t\n <https://email-lin",
+        "classification": "subscriptions",
+        "year": "2020"
+      },
+      {
+        "file": "115",
+        "subject": "Sound Bites: Watch SAINt JHN & Koffee live!",
+        "from": "\"Grubhub\" <email@grubhub.com>",
+        "date": "Fri, 11 Dec 2020 21:39:09 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <http://ablinksuni.a.grubhub.com/ss/o/7jQg2yS2ChWi6Ev1Zg9Y",
+        "classification": "subscriptions",
+        "year": "2020"
+      },
+      {
+        "file": "209",
+        "subject": "Message Center Major Change Update Notification",
+        "from": "Microsoft 365 Message Center <o365mc@microsoft.com>",
+        "date": "Wed, 16 Dec 2020 23:09:26 -0800",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"utf-8\"\n\n\t <http://image.email2.office.com/lib/fe81137272620d7a7d/m/1/logo_",
+        "classification": "subscriptions",
+        "year": "2020"
+      },
+      {
+        "file": "389",
+        "subject": "Rails to Trails",
+        "from": "\"Nextdoor Turkey Hill\" <reply@rs.email.nextdoor.com>",
+        "date": "Mon, 28 Dec 2020 13:57:08 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\n <https://flask.us.nextdoor.com/t_i/spacer.gif?ot=ox-Xg_5mS",
+        "classification": "subscriptions",
+        "year": "2020"
+      },
+      {
+        "file": "62",
+        "subject": "Jon, Sea Robin Tech has new referral opportunities!",
+        "from": "\"Alignable\" <membersuccess@alignable.com>",
+        "date": "Wed, 09 Dec 2020 16:00:22 +0000 (UTC)",
+        "body_preview": "----boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: multipart/alternative;\n\tboundary=\"alt---boundary-LibPST-iamunique-1048155512_-_-\"\n\n--alt---boundary-LibPST-iamunique-1048155512_-_-\nContent-Type: text/plain; charset=\"windows-1252\"\n\nCongrats on your success\n\t\n <https://assets.alignable.com/a",
+        "classification": "subscriptions",
+        "year": "2020"
+      }
+    ]
+  }
+}
